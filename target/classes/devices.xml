@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<devices>
+    <device>
+        <name>A7</name>
+        <isUp>true</isUp>
+        <usb_id>3300e382202d23bb</usb_id>
+        <wifi_id>192.168.43.118:5555</wifi_id>
+    </device>
+      <device>
+        <name>S6</name>
+        <isUp>false</isUp>
+        <usb_id>3300e382202d23bb</usb_id>
+        <wifi_id></wifi_id>
+    </device>
+          <device>
+        <name>iphone</name>
+        <isUp>false</isUp>
+        <usb_id>3300e382202d23bb</usb_id>
+        <wifi_id></wifi_id>
+    </device>
+</devices>

@@ -1,0 +1,2116 @@
+2016-07-29 10:11:25 WARN  Automation:44 - Unreachable Browser : Connection problem occured
+2016-07-29 10:11:26 WARN  Automation:58 - Unreachable Browser : Connection problem occured
+2016-07-29 10:15:17 WARN  Automation:44 - Unreachable Browser : Connection problem occured
+2016-07-29 10:15:18 WARN  Automation:58 - Unreachable Browser : Connection problem occured
+2016-07-29 15:10:23 INFO  Automation:17 - Connected to the device
+2016-07-29 15:10:44 WARN  Automation:44 - Unreachable Browser : Connection problem occured
+2016-07-29 15:14:01 INFO  Automation:17 - Connected to the device
+2016-07-29 15:14:23 WARN  Automation:44 - Unreachable Browser : Connection problem occured
+2016-07-29 15:15:34 INFO  Automation:17 - Connected to the device
+2016-07-29 15:15:53 INFO  Automation:28 - Test 1.1 OK 
+2016-07-29 15:16:35 INFO  Automation:14 - Entering Username
+2016-07-29 15:16:42 INFO  Automation:18 - Entering Password
+2016-07-29 15:16:51 INFO  Automation:22 - Connexion button click 
+2016-07-29 15:16:51 INFO  Automation:24 - Virement Button click 
+2016-07-29 15:17:44 WARN  Automation:57 - Unreachable Browser : Connection problem occured
+2016-07-29 15:19:26 INFO  Automation:12 - Begining Test 1.2
+2016-07-29 15:19:28 WARN  Automation:58 - Unreachable Browser : Connection problem occured
+2016-07-29 15:19:40 INFO  Automation:12 - Begining Test 1.2
+2016-07-29 15:20:21 INFO  Automation:15 - Entering Username
+2016-07-29 15:20:27 INFO  Automation:19 - Entering Password
+2016-07-29 15:20:35 INFO  Automation:23 - Connexion button click 
+2016-07-29 15:20:35 INFO  Automation:25 - Virement Button click 
+2016-07-29 15:21:09 WARN  Automation:58 - Unreachable Browser : Connection problem occured
+2016-07-29 15:22:51 INFO  Automation:12 - Begining Test 1.2
+2016-07-29 15:23:32 INFO  Automation:15 - Entering Username
+2016-07-29 15:23:38 INFO  Automation:19 - Entering Password
+2016-07-29 15:23:46 INFO  Automation:23 - Connexion button click 
+2016-07-29 15:23:47 INFO  Automation:25 - Virement Button click 
+2016-07-29 15:24:16 INFO  Automation:46 - Virement Valider click 
+2016-07-29 15:24:26 INFO  Automation:50 - Test1.2 OK 
+2016-07-29 15:55:56 INFO  Automation:23 - Connected to the device
+2016-07-29 15:56:14 INFO  Automation:34 - Test 1.1 OK 
+2016-07-29 15:56:53 INFO  Automation:23 - Connected to the device
+2016-07-29 15:57:12 INFO  Automation:34 - Test 1.1 OK 
+2016-07-29 15:57:31 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-07-29 16:12:40 INFO  Automation:22 - Connected to the device
+2016-07-29 16:12:59 INFO  Automation:33 - Test 1.1 OK 
+2016-07-29 16:13:01 INFO  Automation:15 - Begining Test 1.2
+2016-07-29 16:13:41 INFO  Automation:18 - Entering Username
+2016-07-29 16:13:48 INFO  Automation:22 - Entering Password
+2016-07-29 16:13:56 WARN  Automation:63 - Unreachable Browser : Connection problem occured
+2016-07-29 16:38:33 WARN  Automation:56 - Unreachable Browser : Connection problem occured
+2016-07-29 16:38:33 INFO  Automation:14 - Begining Test 1.2
+2016-07-29 16:38:34 WARN  Automation:62 - Unreachable Browser : Connection problem occured
+2016-07-29 16:38:50 WARN  Automation:56 - Unreachable Browser : Connection problem occured
+2016-07-29 16:38:50 INFO  Automation:14 - Begining Test 1.2
+2016-07-29 16:38:51 WARN  Automation:62 - Unreachable Browser : Connection problem occured
+2016-07-29 16:40:46 INFO  Automation:18 - Begining Test 1.1
+2016-07-29 16:40:47 WARN  Automation:57 - Unreachable Browser : Connection problem occured
+2016-07-29 16:40:47 INFO  Automation:11 - Begining Test 1.2
+2016-07-29 16:40:48 WARN  Automation:63 - Unreachable Browser : Connection problem occured
+2016-07-29 16:43:13 INFO  Automation:18 - Begining Test 1.1
+2016-07-29 16:43:15 WARN  Automation:57 - Unreachable Browser : Connection problem occured
+2016-07-29 16:43:15 INFO  Automation:11 - Begining Test 1.2
+2016-07-29 16:47:43 INFO  Automation:18 - Begining Test 1.1
+2016-07-29 16:47:44 WARN  Automation:57 - Unreachable Browser : Connection problem occured
+2016-07-29 16:47:44 INFO  Automation:11 - Begining Test 1.2
+2016-07-29 16:48:10 INFO  Automation:18 - Begining Test 1.1
+2016-07-29 16:48:11 WARN  Automation:57 - Unreachable Browser : Connection problem occured
+2016-07-29 16:48:59 INFO  Automation:18 - Begining Test 1.1
+2016-07-29 16:49:00 WARN  Automation:57 - Unreachable Browser : Connection problem occured
+2016-07-29 16:49:00 INFO  Automation:11 - Begining Test 1.2
+2016-07-29 16:49:00 WARN  Automation:80 - Make sur that Test 1.1  tests are OK
+2016-07-29 16:50:30 INFO  Automation:18 - Begining Test 1.1
+2016-07-29 16:50:31 WARN  Automation:58 - Unreachable Browser : Connection problem occured
+2016-07-29 16:50:31 INFO  Automation:11 - Begining Test 1.2
+2016-07-29 16:50:31 WARN  Automation:81 - Make sur that Test 1.1 are OK
+2016-07-29 16:51:56 INFO  Automation:18 - Begining Test 1.1
+2016-07-29 16:51:57 WARN  Automation:59 - Unreachable Browser : Connection problem occured
+2016-07-29 16:51:57 INFO  Automation:60 - Test 1.1 KO 
+2016-07-29 16:51:57 INFO  Automation:11 - Begining Test 1.2
+2016-07-29 16:51:57 WARN  Automation:85 - Make sur that Test 1.1 are OK
+2016-07-29 16:52:47 INFO  Automation:18 - Begining Test 1.1
+2016-07-29 16:52:49 WARN  Automation:59 - Unreachable Browser : Connection problem occured
+2016-07-29 16:52:49 INFO  Automation:60 - Test 1.1 KO 
+2016-07-29 16:52:49 INFO  Automation:11 - Begining Test 1.2
+2016-07-29 16:52:49 INFO  Automation:85 - Test 1.2 KO 
+2016-07-29 16:52:49 WARN  Automation:86 - Make sur that Test 1.1 are OK
+2016-07-29 17:41:31 INFO  Automation:16 - Begining Test 1.1
+2016-07-29 17:41:32 WARN  Automation:46 - Unreachable Browser : Connection problem occured
+2016-07-29 17:41:32 INFO  Automation:47 - Test 1.1 KO 
+2016-07-29 17:41:32 INFO  Automation:11 - Begining Test 1.2
+2016-07-29 17:41:32 INFO  Automation:81 - Test 1.2 KO 
+2016-07-29 17:41:32 WARN  Automation:82 - Make sur that Test 1.1 are OK
+2016-08-03 10:31:14 INFO  Automation:8 - Begining Test 0.4
+2016-08-03 10:31:43 INFO  Automation:13 - Connected to the device
+2016-08-03 10:31:43 INFO  Automation:14 - Home page screen displayed
+2016-08-03 10:37:00 INFO  Automation:8 - Begining Test 0.4
+2016-08-03 10:38:07 INFO  Automation:13 - Connected to the device
+2016-08-03 10:38:07 INFO  Automation:14 - Home page screen displayed
+2016-08-03 10:38:07 INFO  Automation:16 - Side Menu displayed
+2016-08-03 10:51:20 INFO  Automation:8 - Begining Test 0.4
+2016-08-03 10:52:00 INFO  Automation:13 - Connected to the device
+2016-08-03 10:52:00 INFO  Automation:14 - Home page screen displayed
+2016-08-03 10:52:01 INFO  Automation:16 - Side Menu displayed
+2016-08-03 10:53:34 INFO  Automation:8 - Begining Test 0.4
+2016-08-03 10:54:00 INFO  Automation:8 - Begining Test 0.4
+2016-08-03 10:54:42 INFO  Automation:13 - Connected to the device
+2016-08-03 10:54:42 INFO  Automation:14 - Home page screen displayed
+2016-08-03 10:54:42 INFO  Automation:16 - Side Menu displayed
+2016-08-03 10:59:01 INFO  Automation:11 - Begining Test 0.4
+2016-08-03 10:59:50 INFO  Automation:16 - Connected to the device
+2016-08-03 10:59:50 INFO  Automation:17 - Home page screen displayed
+2016-08-03 10:59:50 INFO  Automation:19 - Side Menu displayed
+2016-08-03 10:59:52 INFO  Automation:22 - DÉSACTIVÉ
+2016-08-03 11:05:02 INFO  Automation:11 - Begining Test 0.4
+2016-08-03 11:05:43 INFO  Automation:16 - Connected to the device
+2016-08-03 11:05:43 INFO  Automation:17 - Home page screen displayed
+2016-08-03 11:05:45 INFO  Automation:19 - Side Menu displayed
+2016-08-03 11:05:47 INFO  Automation:22 - On-Off Switch Button displayed
+2016-08-03 11:05:49 INFO  Automation:25 - Identifiant oublié displayed
+2016-08-03 11:05:51 INFO  Automation:28 - Agences Displayed
+2016-08-03 11:05:55 INFO  Automation:31 - Démonstration Displayed
+2016-08-03 11:05:58 INFO  Automation:34 - Assistance Displayed
+2016-08-03 11:07:21 INFO  Automation:11 - Begining Test 0.4
+2016-08-03 11:08:09 INFO  Automation:16 - Connected to the device
+2016-08-03 11:08:09 INFO  Automation:17 - Home page screen displayed
+2016-08-03 11:08:13 INFO  Automation:19 - Side Menu displayed
+2016-08-03 11:08:16 INFO  Automation:22 - On-Off Switch Button displayed
+2016-08-03 11:08:17 INFO  Automation:25 - Identifiant oublié displayed
+2016-08-03 11:08:22 INFO  Automation:28 - Agences Displayed
+2016-08-03 11:08:23 INFO  Automation:31 - Démonstration Displayed
+2016-08-03 11:08:24 INFO  Automation:34 - Assistance Displayed
+2016-08-03 11:08:24 INFO  Automation:42 - Begining Test 0.4  OK 
+2016-08-03 11:45:17 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 11:45:17 WARN  Automation:40 -  Web Driver : Connection problem occured
+2016-08-03 11:45:17 INFO  Automation:41 - Test 0.1 KO 
+2016-08-03 11:45:36 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 11:45:37 WARN  Automation:40 -  Web Driver : Connection problem occured
+2016-08-03 11:45:37 INFO  Automation:41 - Test 0.1 KO 
+2016-08-03 11:46:09 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 11:47:23 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-03 11:47:23 INFO  Automation:36 - Test 0.1 KO 
+2016-08-03 11:48:06 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 11:49:08 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-03 11:49:08 INFO  Automation:36 - Test 0.1 KO 
+2016-08-03 11:52:25 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 11:52:27 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-03 11:52:27 INFO  Automation:36 - Test 0.1 KO 
+2016-08-03 11:52:35 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 11:53:42 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-03 11:53:42 INFO  Automation:36 - Test 0.1 KO 
+2016-08-03 11:54:46 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 11:56:34 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-03 11:56:34 INFO  Automation:36 - Test 0.1 KO 
+2016-08-03 11:58:32 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 11:58:33 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-03 11:58:33 INFO  Automation:36 - Test 0.1 KO 
+2016-08-03 11:58:43 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 11:59:38 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-03 11:59:38 INFO  Automation:36 - Test 0.1 KO 
+2016-08-03 12:00:54 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 12:01:40 INFO  Automation:15 - Entering Username
+2016-08-03 12:01:50 INFO  Automation:18 - Entering Password
+2016-08-03 12:02:09 INFO  Automation:21 - Connexion button click 
+2016-08-03 12:02:13 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-03 12:02:13 INFO  Automation:36 - Test 0.1 KO 
+2016-08-03 12:03:07 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 12:03:08 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-03 12:03:08 INFO  Automation:36 - Test 0.1 KO 
+2016-08-03 12:03:17 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 12:04:05 INFO  Automation:15 - Entering Username
+2016-08-03 12:04:15 INFO  Automation:18 - Entering Password
+2016-08-03 12:04:46 WARN  Automation:30 - An element could not be located on the page using the given search parameters
+2016-08-03 12:04:46 INFO  Automation:31 - Test 0.1 KO 
+2016-08-03 12:06:47 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 12:07:33 INFO  Automation:15 - Entering Username
+2016-08-03 12:07:42 INFO  Automation:18 - Entering Password
+2016-08-03 12:08:13 WARN  Automation:30 - An element could not be located on the page using the given search parameters
+2016-08-03 12:08:13 INFO  Automation:31 - Test 0.1 KO 
+2016-08-03 12:08:22 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 12:09:07 INFO  Automation:15 - Entering Username
+2016-08-03 12:09:22 INFO  Automation:19 - Entering Password
+2016-08-03 12:09:31 INFO  Automation:22 - Connexion button click 
+2016-08-03 12:10:08 WARN  Automation:36 - Unreachable Browser : Connection problem occured
+2016-08-03 12:10:08 INFO  Automation:37 - Test 0.1 KO 
+2016-08-03 12:12:01 INFO  Automation:10 - Begining Test 0.1
+2016-08-03 12:12:52 INFO  Automation:15 - Entering Username
+2016-08-03 12:13:06 INFO  Automation:19 - Entering Password
+2016-08-03 12:13:15 INFO  Automation:22 - Connexion button click 
+2016-08-03 12:13:17 INFO  Automation:24 - Pop up non expected  
+2016-08-03 12:13:17 INFO  Automation:25 - Test 0.1 KO 
+2016-08-03 12:16:27 INFO  Automation:19 - Begining Test 0.1
+2016-08-03 12:17:26 INFO  Automation:24 - Entering Username
+2016-08-03 12:17:53 INFO  Automation:28 - Entering Password
+2016-08-03 12:19:02 INFO  Automation:31 - Connexion button click 
+2016-08-03 12:19:03 INFO  Automation:33 - Pop up non expected  
+2016-08-03 12:19:03 INFO  Automation:34 - Test 0.1 KO 
+2016-08-03 12:19:06 INFO  Automation:21 - Begining Test 0.4
+2016-08-03 12:19:45 INFO  Automation:26 - Connected to the device
+2016-08-03 12:19:45 INFO  Automation:27 - Home page screen displayed
+2016-08-03 12:19:47 INFO  Automation:29 - Side Menu displayed
+2016-08-03 12:19:48 INFO  Automation:32 - On-Off Switch Button displayed
+2016-08-03 12:19:50 INFO  Automation:35 - Identifiant oublié displayed
+2016-08-03 12:19:51 INFO  Automation:38 - Agences Displayed
+2016-08-03 12:19:52 INFO  Automation:41 - Démonstration Displayed
+2016-08-03 12:19:55 INFO  Automation:44 - Assistance Displayed
+2016-08-03 12:19:55 INFO  Automation:52 - Begining Test 0.4  OK 
+2016-08-03 17:00:54 INFO  Automation:6 - Test 0.2 ok 
+2016-08-03 17:00:54 INFO  Automation:5 - Test 0.3 ok 
+2016-08-04 11:10:09 INFO  Automation:6 - Test 0.2 ok 
+2016-08-04 11:10:09 INFO  Automation:5 - Test 0.3 ok 
+2016-08-04 12:17:55 INFO  Automation:19 - ****Test 0.1****
+2016-08-04 12:17:57 WARN  Automation:45 - Unreachable Browser : Connection problem occured
+2016-08-04 12:17:57 INFO  Automation:46 - Test 0.1 KO 
+2016-08-04 12:17:57 INFO  Automation:6 - Test 0.2 ok 
+2016-08-04 12:17:57 INFO  Automation:5 - Test 0.3 ok 
+2016-08-04 12:17:57 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 12:17:58 WARN  Automation:74 - Unreachable Browser : Connection problem occured
+2016-08-04 12:17:58 INFO  Automation:75 - Test 0.4 KO 
+2016-08-04 12:17:58 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 12:17:59 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-04 12:17:59 INFO  Automation:36 - Test 0.5 KO 
+2016-08-04 12:18:29 INFO  Automation:19 - ****Test 0.1****
+2016-08-04 12:18:31 WARN  Automation:45 - Unreachable Browser : Connection problem occured
+2016-08-04 12:18:31 INFO  Automation:46 - Test 0.1 KO 
+2016-08-04 12:18:31 INFO  Automation:6 - Test 0.2 ok 
+2016-08-04 12:18:31 INFO  Automation:5 - Test 0.3 ok 
+2016-08-04 12:18:31 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 12:18:32 WARN  Automation:74 - Unreachable Browser : Connection problem occured
+2016-08-04 12:18:32 INFO  Automation:75 - Test 0.4 KO 
+2016-08-04 12:18:32 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 12:18:33 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-04 12:18:33 INFO  Automation:36 - Test 0.5 KO 
+2016-08-04 12:19:21 INFO  Automation:19 - ****Test 0.1****
+2016-08-04 12:19:22 WARN  Automation:45 - Unreachable Browser : Connection problem occured
+org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Farouk', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_66'
+Driver info: driver.version: AndroidDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:249)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:144)
+	at io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:162)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:171)
+	at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:72)
+	at src.test.java.Automation.testAndroid(Automation.java:79)
+	at src.test.java.Test0_1.execute(Test0_1.java:22)
+	at src.test.java.Automation.lancer1(Automation.java:52)
+	at src.test.java.Main.main(Main.java:74)
+Caused by: org.openqa.selenium.WebDriverException: org.apache.http.conn.HttpHostConnectException: Connect to 0.0.0.0:4724 [/0.0.0.0] failed: Connection refused: connect
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Farouk', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_66'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:79)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:644)
+	... 14 more
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to 0.0.0.0:4724 [/0.0.0.0] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:151)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.fallBackExecute(ApacheHttpClient.java:144)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.execute(ApacheHttpClient.java:90)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:142)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:67)
+	... 15 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:74)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134)
+	... 28 more
+2016-08-04 12:19:22 INFO  Automation:46 - Test 0.1 KO 
+2016-08-04 12:19:22 INFO  Automation:6 - Test 0.2 ok 
+2016-08-04 12:19:22 INFO  Automation:5 - Test 0.3 ok 
+2016-08-04 12:19:22 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 12:19:23 WARN  Automation:74 - Unreachable Browser : Connection problem occured
+2016-08-04 12:19:23 INFO  Automation:75 - Test 0.4 KO 
+2016-08-04 12:19:23 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 12:19:24 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-04 12:19:24 INFO  Automation:36 - Test 0.5 KO 
+2016-08-04 12:19:46 INFO  Automation:19 - ****Test 0.1****
+2016-08-04 12:19:48 WARN  Automation:45 - Unreachable Browser : Connection problem occured
+2016-08-04 12:19:48 INFO  Automation:46 - Test 0.1 KO 
+2016-08-04 12:19:48 INFO  Automation:6 - Test 0.2 ok 
+2016-08-04 12:19:48 INFO  Automation:5 - Test 0.3 ok 
+2016-08-04 12:19:48 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 12:19:49 WARN  Automation:74 - Unreachable Browser : Connection problem occured
+2016-08-04 12:19:49 INFO  Automation:75 - Test 0.4 KO 
+2016-08-04 12:19:49 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 12:19:50 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-04 12:19:50 INFO  Automation:36 - Test 0.5 KO 
+2016-08-04 12:21:16 INFO  Automation:19 - ****Test 0.1****
+2016-08-04 12:21:17 WARN  Automation:50 -  Web Driver : Connection problem occured
+2016-08-04 12:21:17 INFO  Automation:51 - Test 0.1 KO 
+2016-08-04 12:21:17 INFO  Automation:6 - Test 0.2 ok 
+2016-08-04 12:21:17 INFO  Automation:5 - Test 0.3 ok 
+2016-08-04 12:21:17 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 12:21:17 WARN  Automation:79 -  Web Driver : Connection problem occured
+2016-08-04 12:21:17 INFO  Automation:80 - Test 0.4 KO 
+2016-08-04 12:21:17 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 12:21:18 WARN  Automation:40 -  Web Driver : Connection problem occured
+2016-08-04 12:21:18 INFO  Automation:41 - Test 0.5 KO 
+2016-08-04 12:22:53 INFO  Automation:19 - ****Test 0.1****
+2016-08-04 12:23:45 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-08-04 12:23:56 INFO  Automation:28 - Ecriture du mot de passe
+2016-08-04 12:24:05 INFO  Automation:31 - Clique sur le bouton Connexion 
+2016-08-04 12:25:05 WARN  Automation:45 - Unreachable Browser : Connection problem occured
+2016-08-04 12:25:05 INFO  Automation:46 - Test 0.1 KO 
+2016-08-04 12:26:11 INFO  Automation:19 - ****Test 0.1****
+2016-08-04 12:26:12 WARN  Automation:45 - Unreachable Browser : Connection problem occured
+2016-08-04 12:26:12 INFO  Automation:46 - Test 0.1 KO 
+2016-08-04 12:26:33 INFO  Automation:19 - ****Test 0.1****
+2016-08-04 12:28:00 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 12:28:01 WARN  Automation:79 -  Web Driver : Connection problem occured
+2016-08-04 12:28:01 INFO  Automation:80 - Test 0.4 KO 
+2016-08-04 12:28:36 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 12:28:54 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 12:28:54 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 12:28:54 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 12:28:54 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 12:28:54 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 12:28:55 INFO  Automation:38 - Agences affiché
+2016-08-04 12:28:55 INFO  Automation:41 - Démonstration affiché
+2016-08-04 12:28:55 INFO  Automation:44 - Assistance affiché
+2016-08-04 12:28:55 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 15:25:39 INFO  Automation:6 - Test 0.2 ok 
+2016-08-04 15:25:39 INFO  Automation:5 - Test 0.3 ok 
+2016-08-04 15:34:53 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 15:35:13 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 15:35:13 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 15:35:13 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 15:35:13 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 15:35:14 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 15:35:14 INFO  Automation:38 - Agences affiché
+2016-08-04 15:35:14 INFO  Automation:41 - Démonstration affiché
+2016-08-04 15:35:14 INFO  Automation:44 - Assistance affiché
+2016-08-04 15:35:14 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 15:35:16 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 15:35:17 WARN  Automation:40 -  Web Driver : Connection problem occured
+2016-08-04 15:35:17 INFO  Automation:41 - Test 0.5 KO 
+2016-08-04 15:35:17 INFO  Automation:13 - ****Test 0.10****
+2016-08-04 15:35:17 WARN  Automation:46 -  Web Driver : Connection problem occured
+2016-08-04 15:35:17 INFO  Automation:47 - Test 0.10 KO 
+2016-08-04 15:36:05 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 15:36:23 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 15:36:23 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 15:36:23 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 15:36:23 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 15:36:23 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 15:36:24 INFO  Automation:38 - Agences affiché
+2016-08-04 15:36:24 INFO  Automation:41 - Démonstration affiché
+2016-08-04 15:36:24 INFO  Automation:44 - Assistance affiché
+2016-08-04 15:36:24 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 15:36:26 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 15:36:51 WARN  Automation:35 - Unreachable Browser : Connection problem occured
+2016-08-04 15:36:51 INFO  Automation:36 - Test 0.5 KO 
+2016-08-04 15:39:40 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 15:40:18 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 15:40:18 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 15:40:26 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 15:40:26 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 15:40:27 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 15:40:27 INFO  Automation:38 - Agences affiché
+2016-08-04 15:40:27 INFO  Automation:41 - Démonstration affiché
+2016-08-04 15:40:28 INFO  Automation:44 - Assistance affiché
+2016-08-04 15:40:28 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 15:40:30 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 15:41:09 INFO  Automation:19 - Ecriture du nom d'utilisateur
+2016-08-04 15:41:18 INFO  Automation:22 - Ecriture du mot de passe 
+2016-08-04 15:41:19 INFO  Automation:24 - Pop up non attendu 
+2016-08-04 15:41:19 INFO  Automation:25 - Test 0.5 KO 
+2016-08-04 15:41:21 INFO  Automation:13 - ****Test 0.10****
+2016-08-04 15:42:01 INFO  Automation:19 - Ecriture du nom d'utilisateur
+2016-08-04 15:42:10 INFO  Automation:23 - Ecriture du mot de passe
+2016-08-04 15:42:19 INFO  Automation:26 - Clique sur le bouton Connexion 
+2016-08-04 15:42:20 INFO  Automation:28 - Test 0.10 ok 
+2016-08-04 15:44:13 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 15:44:50 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 15:44:50 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 15:44:50 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 15:44:50 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 15:44:50 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 15:44:51 INFO  Automation:38 - Agences affiché
+2016-08-04 15:44:51 INFO  Automation:41 - Démonstration affiché
+2016-08-04 15:44:51 INFO  Automation:44 - Assistance affiché
+2016-08-04 15:44:51 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 15:44:53 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 15:45:33 INFO  Automation:19 - Ecriture du nom d'utilisateur
+2016-08-04 15:45:41 INFO  Automation:24 - Pop up non attendu 
+2016-08-04 15:45:41 INFO  Automation:25 - Test 0.5 KO 
+2016-08-04 15:45:44 INFO  Automation:13 - ****Test 0.10****
+2016-08-04 15:46:23 INFO  Automation:19 - Ecriture du nom d'utilisateur
+2016-08-04 15:46:32 INFO  Automation:23 - Ecriture du mot de passe
+2016-08-04 15:46:41 INFO  Automation:26 - Clique sur le bouton Connexion 
+2016-08-04 15:46:47 INFO  Automation:29 - Test 0.10 ok 
+2016-08-04 15:53:29 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 15:54:43 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 15:55:20 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 15:55:20 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 15:55:20 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 15:55:20 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 15:55:21 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 15:55:21 INFO  Automation:38 - Agences affiché
+2016-08-04 15:55:21 INFO  Automation:41 - Démonstration affiché
+2016-08-04 15:55:21 INFO  Automation:44 - Assistance affiché
+2016-08-04 15:55:21 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 15:55:23 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 15:55:23 WARN  Automation:42 -  Web Driver : Connection problem occured
+2016-08-04 15:55:23 INFO  Automation:43 - Test 0.5 KO 
+2016-08-04 15:55:23 INFO  Automation:13 - ****Test 0.10****
+2016-08-04 15:55:23 WARN  Automation:47 -  Web Driver : Connection problem occured
+2016-08-04 15:55:23 INFO  Automation:48 - Test 0.10 KO 
+2016-08-04 15:55:41 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 15:56:18 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 15:56:18 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 15:56:19 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 15:56:19 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 15:56:19 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 15:56:19 INFO  Automation:38 - Agences affiché
+2016-08-04 15:56:19 INFO  Automation:41 - Démonstration affiché
+2016-08-04 15:56:20 INFO  Automation:44 - Assistance affiché
+2016-08-04 15:56:20 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 15:56:20 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 15:56:23 INFO  Automation:19 - Ecriture du nom d'utilisateur
+2016-08-04 15:56:33 INFO  Automation:24 - Pop up non attendu 
+2016-08-04 15:56:37 INFO  Automation:26 - Clique sur le bouton ok du popup 
+2016-08-04 15:56:37 INFO  Automation:27 - Test 0.5 KO 
+2016-08-04 15:56:37 INFO  Automation:13 - ****Test 0.10****
+2016-08-04 15:57:00 WARN  Automation:42 - Unreachable Browser : Connection problem occured
+2016-08-04 15:57:00 INFO  Automation:43 - Test  0.10 KO 
+2016-08-04 15:58:32 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 15:59:09 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 15:59:09 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 15:59:10 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 15:59:10 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 15:59:10 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 15:59:10 INFO  Automation:38 - Agences affiché
+2016-08-04 15:59:10 INFO  Automation:41 - Démonstration affiché
+2016-08-04 15:59:11 INFO  Automation:44 - Assistance affiché
+2016-08-04 15:59:11 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 15:59:11 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 15:59:17 INFO  Automation:20 - Ecriture du nom d'utilisateur
+2016-08-04 15:59:26 INFO  Automation:25 - Pop up non attendu 
+2016-08-04 15:59:30 INFO  Automation:27 - Clique sur le bouton ok du popup 
+2016-08-04 15:59:30 INFO  Automation:28 - Test 0.5 KO 
+2016-08-04 15:59:30 INFO  Automation:13 - ****Test 0.10****
+2016-08-04 15:59:48 WARN  Automation:44 - Unreachable Browser : Connection problem occured
+2016-08-04 15:59:48 INFO  Automation:45 - Test  0.10 KO 
+2016-08-04 16:06:39 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 16:07:16 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 16:07:16 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 16:07:16 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 16:07:16 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 16:07:17 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 16:07:17 INFO  Automation:38 - Agences affiché
+2016-08-04 16:07:17 INFO  Automation:41 - Démonstration affiché
+2016-08-04 16:07:17 INFO  Automation:44 - Assistance affiché
+2016-08-04 16:07:17 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 16:07:17 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 16:07:23 INFO  Automation:20 - Ecriture du nom d'utilisateur
+2016-08-04 16:07:33 INFO  Automation:25 - Pop up non attendu 
+2016-08-04 16:07:37 INFO  Automation:27 - Clique sur le bouton ok du popup 
+2016-08-04 16:07:37 INFO  Automation:28 - Test 0.5 KO 
+2016-08-04 16:07:37 INFO  Automation:14 - ****Test 0.10****
+2016-08-04 16:07:53 WARN  Automation:47 - Unreachable Browser : Connection problem occured
+2016-08-04 16:07:53 INFO  Automation:48 - Test  0.10 KO 
+2016-08-04 16:09:48 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 16:10:25 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 16:10:25 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 16:10:25 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 16:10:25 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 16:10:26 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 16:10:26 INFO  Automation:38 - Agences affiché
+2016-08-04 16:10:26 INFO  Automation:41 - Démonstration affiché
+2016-08-04 16:10:26 INFO  Automation:44 - Assistance affiché
+2016-08-04 16:10:26 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 16:10:26 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 16:10:32 INFO  Automation:20 - Ecriture du nom d'utilisateur
+2016-08-04 16:10:42 INFO  Automation:25 - Pop up non attendu 
+2016-08-04 16:10:46 INFO  Automation:27 - Clique sur le bouton ok du popup 
+2016-08-04 16:10:46 INFO  Automation:28 - Test 0.5 KO 
+2016-08-04 16:10:46 INFO  Automation:14 - ****Test 0.10****
+2016-08-04 16:11:34 WARN  Automation:48 - Unreachable Browser : Connection problem occured
+2016-08-04 16:11:34 INFO  Automation:49 - Test  0.10 KO 
+2016-08-04 16:12:55 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 16:13:32 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 16:13:32 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 16:13:33 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 16:13:33 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 16:13:33 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 16:13:33 INFO  Automation:38 - Agences affiché
+2016-08-04 16:13:33 INFO  Automation:41 - Démonstration affiché
+2016-08-04 16:13:34 INFO  Automation:44 - Assistance affiché
+2016-08-04 16:13:34 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 16:13:34 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 16:13:40 INFO  Automation:20 - Ecriture du nom d'utilisateur
+2016-08-04 16:13:48 INFO  Automation:25 - Pop up non attendu 
+2016-08-04 16:13:52 INFO  Automation:27 - Clique sur le bouton ok du popup 
+2016-08-04 16:13:52 INFO  Automation:28 - Test 0.5 KO 
+2016-08-04 16:13:52 INFO  Automation:14 - ****Test 0.10****
+2016-08-04 16:14:03 WARN  Automation:49 - Unreachable Browser : Connection problem occured
+2016-08-04 16:14:03 INFO  Automation:50 - Test  0.10 KO 
+2016-08-04 16:16:41 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 16:17:18 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 16:17:18 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 16:17:19 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 16:17:19 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 16:17:19 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 16:17:19 INFO  Automation:38 - Agences affiché
+2016-08-04 16:17:19 INFO  Automation:41 - Démonstration affiché
+2016-08-04 16:17:20 INFO  Automation:44 - Assistance affiché
+2016-08-04 16:17:20 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 16:17:20 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 16:17:26 INFO  Automation:20 - Ecriture du nom d'utilisateur
+2016-08-04 16:17:36 INFO  Automation:25 - Pop up non attendu 
+2016-08-04 16:17:40 INFO  Automation:27 - Clique sur le bouton ok du popup 
+2016-08-04 16:17:40 INFO  Automation:28 - Test 0.5 KO 
+2016-08-04 16:17:40 INFO  Automation:14 - ****Test 0.10****
+2016-08-04 16:17:44 WARN  Automation:46 - Unreachable Browser : Connection problem occured
+2016-08-04 16:17:44 INFO  Automation:47 - Test  0.10 KO 
+2016-08-04 16:19:37 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 16:20:14 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 16:20:14 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 16:20:14 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 16:20:15 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 16:20:15 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 16:20:15 INFO  Automation:38 - Agences affiché
+2016-08-04 16:20:15 INFO  Automation:41 - Démonstration affiché
+2016-08-04 16:20:15 INFO  Automation:44 - Assistance affiché
+2016-08-04 16:20:15 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 16:20:15 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 16:20:22 INFO  Automation:20 - Ecriture du nom d'utilisateur
+2016-08-04 16:20:32 INFO  Automation:25 - Pop up non attendu 
+2016-08-04 16:20:36 INFO  Automation:27 - Clique sur le bouton ok du popup 
+2016-08-04 16:20:36 INFO  Automation:28 - Test 0.5 KO 
+2016-08-04 16:20:36 INFO  Automation:14 - ****Test 0.10****
+2016-08-04 16:20:50 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-08-04 16:21:04 INFO  Automation:27 - Ecriture du mot de passe
+2016-08-04 16:21:11 INFO  Automation:30 - Clique sur le bouton Connexion 
+2016-08-04 16:21:17 INFO  Automation:33 - Test 0.10 ok 
+2016-08-04 16:21:46 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 16:22:23 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 16:22:23 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 16:22:23 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 16:22:23 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 16:22:24 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 16:22:24 INFO  Automation:38 - Agences affiché
+2016-08-04 16:22:24 INFO  Automation:41 - Démonstration affiché
+2016-08-04 16:22:24 INFO  Automation:44 - Assistance affiché
+2016-08-04 16:22:24 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 16:22:24 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 16:22:30 INFO  Automation:20 - Ecriture du nom d'utilisateur
+2016-08-04 16:22:39 INFO  Automation:25 - Pop up non attendu 
+2016-08-04 16:22:42 INFO  Automation:27 - Clique sur le bouton ok du popup 
+2016-08-04 16:22:42 INFO  Automation:28 - Test 0.5 KO 
+2016-08-04 16:22:42 INFO  Automation:14 - ****Test 0.10****
+2016-08-04 16:22:56 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-08-04 16:23:10 INFO  Automation:27 - Ecriture du mot de passe
+2016-08-04 16:23:19 INFO  Automation:30 - Clique sur le bouton Connexion 
+2016-08-04 16:23:24 INFO  Automation:33 - Test 0.10 ok 
+2016-08-04 16:24:21 INFO  Automation:21 - ****Test 0.4****
+2016-08-04 16:24:58 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-04 16:24:58 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-04 16:24:58 INFO  Automation:29 - Menu latéral affiché
+2016-08-04 16:24:59 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-04 16:24:59 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-04 16:24:59 INFO  Automation:38 - Agences affiché
+2016-08-04 16:24:59 INFO  Automation:41 - Démonstration affiché
+2016-08-04 16:24:59 INFO  Automation:44 - Assistance affiché
+2016-08-04 16:24:59 INFO  Automation:52 - Test 0.4  OK 
+2016-08-04 16:24:59 INFO  Automation:15 - ****Test 0.5****
+2016-08-04 16:25:05 INFO  Automation:20 - Ecriture du nom d'utilisateur
+2016-08-04 16:25:15 INFO  Automation:25 - Pop up non attendu 
+2016-08-04 16:25:19 INFO  Automation:27 - Clique sur le bouton ok du popup 
+2016-08-04 16:25:19 INFO  Automation:28 - Test 0.5 KO 
+2016-08-04 16:25:19 INFO  Automation:14 - ****Test 0.10****
+2016-08-04 16:25:26 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-08-04 16:25:42 INFO  Automation:27 - Ecriture du mot de passe
+2016-08-04 16:25:49 INFO  Automation:30 - Clique sur le bouton Connexion 
+2016-08-04 16:25:55 INFO  Automation:33 - Test 0.10 ok 
+2016-08-05 11:10:47 INFO  Automation:21 - ****Test 0.4****
+2016-08-05 11:11:27 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-05 11:11:27 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-05 11:11:27 INFO  Automation:29 - Menu latéral affiché
+2016-08-05 11:11:27 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-05 11:11:27 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-05 11:11:28 INFO  Automation:38 - Agences affiché
+2016-08-05 11:11:28 INFO  Automation:41 - Démonstration affiché
+2016-08-05 11:11:28 INFO  Automation:44 - Assistance affiché
+2016-08-05 11:11:28 INFO  Automation:52 - Test 0.4  OK 
+2016-08-05 11:11:28 INFO  Automation:15 - ****Test 0.5****
+2016-08-05 11:11:34 INFO  Automation:20 - Ecriture du nom d'utilisateur
+2016-08-05 11:11:44 INFO  Automation:25 - Pop up non attendu 
+2016-08-05 11:11:48 INFO  Automation:27 - Clique sur le bouton ok du popup 
+2016-08-05 11:11:48 INFO  Automation:28 - Test 0.5 KO 
+2016-08-05 11:11:48 INFO  Automation:14 - ****Test 0.10****
+2016-08-05 11:11:56 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-08-05 11:12:10 INFO  Automation:27 - Ecriture du mot de passe
+2016-08-05 11:12:19 INFO  Automation:30 - Clique sur le bouton Connexion 
+2016-08-05 11:12:24 INFO  Automation:33 - Test 0.10 ok 
+2016-08-05 12:59:56 INFO  Automation:11 - ****Test 0.0****
+2016-08-05 12:59:57 WARN  Automation:19 - Unreachable Browser : Connection problem occured
+2016-08-05 12:59:57 INFO  Automation:20 - Test 0.0 KO 
+2016-08-05 12:59:57 INFO  Automation:19 - ****Test 0.1****
+2016-08-05 12:59:57 WARN  Automation:56 - ERROR
+2016-08-05 12:59:57 INFO  Automation:57 - Test 0.1 KO 
+2016-08-05 12:59:57 INFO  Automation:19 - Test 0.2 ok 
+2016-08-05 12:59:57 WARN  Automation:56 - ERROR
+2016-08-05 12:59:57 INFO  Automation:57 - Test 0.2 KO 
+2016-08-05 12:59:57 INFO  Automation:18 - Test 0.3 ok 
+2016-08-05 12:59:57 WARN  Automation:54 - ERROR
+2016-08-05 12:59:57 INFO  Automation:55 - Test 0.3 KO 
+2016-08-05 12:59:57 INFO  Automation:21 - ****Test 0.4****
+2016-08-05 12:59:57 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-05 12:59:57 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-05 12:59:57 WARN  Automation:84 - ERROR
+java.lang.NullPointerException
+	at src.test.java.Test0_4.execute(Test0_4.java:28)
+	at src.test.java.Automation.lancer(Automation.java:61)
+	at src.test.java.Main.main(Main.java:56)
+2016-08-05 12:59:57 INFO  Automation:85 - Test 0.4 KO 
+2016-08-05 12:59:57 INFO  Automation:15 - ****Test 0.5****
+2016-08-05 12:59:57 WARN  Automation:46 - ERROR
+2016-08-05 12:59:57 INFO  Automation:47 - Test 0.5 KO 
+2016-08-05 12:59:57 INFO  Automation:12 - ****Test 0.6****
+2016-08-05 12:59:57 INFO  Automation:19 - Clique sur le bouton Ok du popup 
+2016-08-05 12:59:57 WARN  Automation:47 - ERROR
+2016-08-05 12:59:57 INFO  Automation:48 - Test 0.6 KO 
+2016-08-05 12:59:57 INFO  Automation:13 - ****Test 0.7****
+2016-08-05 12:59:57 WARN  Automation:53 - ERROR
+2016-08-05 12:59:57 INFO  Automation:54 - Test 0.7 KO 
+2016-08-05 12:59:57 INFO  Automation:13 - ****Test 0.8****
+2016-08-05 12:59:57 WARN  Automation:107 - ERROR
+2016-08-05 12:59:57 INFO  Automation:108 - Test 0.8 KO 
+2016-08-05 12:59:57 INFO  Automation:14 - ****Test 0.9****
+2016-08-05 12:59:57 WARN  Automation:54 - ERROR
+2016-08-05 12:59:57 INFO  Automation:55 - Test 0.9 KO 
+2016-08-05 12:59:57 INFO  Automation:13 - ****Test 0.10****
+2016-08-05 12:59:57 WARN  Automation:59 - ERROR
+2016-08-05 12:59:57 INFO  Automation:60 - Test 0.10 KO 
+2016-08-05 13:00:28 INFO  Automation:11 - ****Test 0.0****
+2016-08-05 13:00:57 WARN  Automation:19 - Unreachable Browser : Connection problem occured
+2016-08-05 13:00:57 INFO  Automation:20 - Test 0.0 KO 
+2016-08-05 13:00:57 INFO  Automation:19 - ****Test 0.1****
+2016-08-05 13:00:57 WARN  Automation:56 - ERROR
+2016-08-05 13:00:57 INFO  Automation:57 - Test 0.1 KO 
+2016-08-05 13:00:57 INFO  Automation:19 - Test 0.2 ok 
+2016-08-05 13:00:57 WARN  Automation:56 - ERROR
+2016-08-05 13:00:57 INFO  Automation:57 - Test 0.2 KO 
+2016-08-05 13:00:57 INFO  Automation:18 - Test 0.3 ok 
+2016-08-05 13:00:57 WARN  Automation:54 - ERROR
+2016-08-05 13:00:57 INFO  Automation:55 - Test 0.3 KO 
+2016-08-05 13:00:57 INFO  Automation:21 - ****Test 0.4****
+2016-08-05 13:00:57 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-05 13:00:57 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-05 13:00:57 WARN  Automation:84 - ERROR
+java.lang.NullPointerException
+	at src.test.java.Test0_4.execute(Test0_4.java:28)
+	at src.test.java.Automation.lancer(Automation.java:61)
+	at src.test.java.Main.main(Main.java:56)
+2016-08-05 13:00:57 INFO  Automation:85 - Test 0.4 KO 
+2016-08-05 13:00:57 INFO  Automation:15 - ****Test 0.5****
+2016-08-05 13:00:57 WARN  Automation:46 - ERROR
+2016-08-05 13:00:57 INFO  Automation:47 - Test 0.5 KO 
+2016-08-05 13:00:57 INFO  Automation:12 - ****Test 0.6****
+2016-08-05 13:00:57 INFO  Automation:19 - Clique sur le bouton Ok du popup 
+2016-08-05 13:00:57 WARN  Automation:47 - ERROR
+2016-08-05 13:00:57 INFO  Automation:48 - Test 0.6 KO 
+2016-08-05 13:00:57 INFO  Automation:13 - ****Test 0.7****
+2016-08-05 13:00:57 WARN  Automation:53 - ERROR
+2016-08-05 13:00:57 INFO  Automation:54 - Test 0.7 KO 
+2016-08-05 13:00:57 INFO  Automation:13 - ****Test 0.8****
+2016-08-05 13:00:57 WARN  Automation:107 - ERROR
+2016-08-05 13:00:57 INFO  Automation:108 - Test 0.8 KO 
+2016-08-05 13:00:57 INFO  Automation:14 - ****Test 0.9****
+2016-08-05 13:00:57 WARN  Automation:54 - ERROR
+2016-08-05 13:00:57 INFO  Automation:55 - Test 0.9 KO 
+2016-08-05 13:00:57 INFO  Automation:13 - ****Test 0.10****
+2016-08-05 13:00:57 WARN  Automation:59 - ERROR
+2016-08-05 13:00:57 INFO  Automation:60 - Test 0.10 KO 
+2016-08-05 13:01:59 INFO  Automation:11 - ****Test 0.0****
+2016-08-05 13:01:59 WARN  Automation:19 - Unreachable Browser : Connection problem occured
+2016-08-05 13:01:59 INFO  Automation:20 - Test 0.0 KO 
+2016-08-05 13:01:59 INFO  Automation:19 - ****Test 0.1****
+2016-08-05 13:01:59 WARN  Automation:56 - ERROR
+2016-08-05 13:01:59 INFO  Automation:57 - Test 0.1 KO 
+2016-08-05 13:01:59 INFO  Automation:19 - Test 0.2 ok 
+2016-08-05 13:01:59 WARN  Automation:56 - ERROR
+2016-08-05 13:01:59 INFO  Automation:57 - Test 0.2 KO 
+2016-08-05 13:01:59 INFO  Automation:18 - Test 0.3 ok 
+2016-08-05 13:01:59 WARN  Automation:54 - ERROR
+2016-08-05 13:01:59 INFO  Automation:55 - Test 0.3 KO 
+2016-08-05 13:01:59 INFO  Automation:21 - ****Test 0.4****
+2016-08-05 13:01:59 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-05 13:01:59 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-05 13:01:59 WARN  Automation:84 - ERROR
+java.lang.NullPointerException
+	at src.test.java.Test0_4.execute(Test0_4.java:28)
+	at src.test.java.Automation.lancer(Automation.java:61)
+	at src.test.java.Main.main(Main.java:56)
+2016-08-05 13:01:59 INFO  Automation:85 - Test 0.4 KO 
+2016-08-05 13:01:59 INFO  Automation:15 - ****Test 0.5****
+2016-08-05 13:01:59 WARN  Automation:46 - ERROR
+2016-08-05 13:01:59 INFO  Automation:47 - Test 0.5 KO 
+2016-08-05 13:01:59 INFO  Automation:12 - ****Test 0.6****
+2016-08-05 13:01:59 INFO  Automation:19 - Clique sur le bouton Ok du popup 
+2016-08-05 13:01:59 WARN  Automation:47 - ERROR
+2016-08-05 13:01:59 INFO  Automation:48 - Test 0.6 KO 
+2016-08-05 13:01:59 INFO  Automation:13 - ****Test 0.7****
+2016-08-05 13:01:59 WARN  Automation:53 - ERROR
+2016-08-05 13:01:59 INFO  Automation:54 - Test 0.7 KO 
+2016-08-05 13:01:59 INFO  Automation:13 - ****Test 0.8****
+2016-08-05 13:01:59 WARN  Automation:107 - ERROR
+2016-08-05 13:01:59 INFO  Automation:108 - Test 0.8 KO 
+2016-08-05 13:01:59 INFO  Automation:14 - ****Test 0.9****
+2016-08-05 13:01:59 WARN  Automation:54 - ERROR
+2016-08-05 13:01:59 INFO  Automation:55 - Test 0.9 KO 
+2016-08-05 13:01:59 INFO  Automation:13 - ****Test 0.10****
+2016-08-05 13:01:59 WARN  Automation:59 - ERROR
+2016-08-05 13:01:59 INFO  Automation:60 - Test 0.10 KO 
+2016-08-05 13:02:20 INFO  Automation:11 - ****Test 0.0****
+2016-08-05 13:02:20 WARN  Automation:19 - Unreachable Browser : Connection problem occured
+2016-08-05 13:02:20 INFO  Automation:20 - Test 0.0 KO 
+2016-08-05 13:02:20 INFO  Automation:19 - ****Test 0.1****
+2016-08-05 13:02:20 WARN  Automation:56 - ERROR
+2016-08-05 13:02:20 INFO  Automation:57 - Test 0.1 KO 
+2016-08-05 13:02:20 INFO  Automation:19 - Test 0.2 ok 
+2016-08-05 13:02:20 WARN  Automation:56 - ERROR
+2016-08-05 13:02:20 INFO  Automation:57 - Test 0.2 KO 
+2016-08-05 13:02:20 INFO  Automation:18 - Test 0.3 ok 
+2016-08-05 13:02:20 WARN  Automation:54 - ERROR
+2016-08-05 13:02:20 INFO  Automation:55 - Test 0.3 KO 
+2016-08-05 13:02:20 INFO  Automation:21 - ****Test 0.4****
+2016-08-05 13:02:20 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-05 13:02:20 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-05 13:02:20 WARN  Automation:84 - ERROR
+java.lang.NullPointerException
+	at src.test.java.Test0_4.execute(Test0_4.java:28)
+	at src.test.java.Automation.lancer(Automation.java:61)
+	at src.test.java.Main.main(Main.java:56)
+2016-08-05 13:02:20 INFO  Automation:85 - Test 0.4 KO 
+2016-08-05 13:02:20 INFO  Automation:15 - ****Test 0.5****
+2016-08-05 13:02:20 WARN  Automation:46 - ERROR
+2016-08-05 13:02:20 INFO  Automation:47 - Test 0.5 KO 
+2016-08-05 13:02:20 INFO  Automation:12 - ****Test 0.6****
+2016-08-05 13:02:20 INFO  Automation:19 - Clique sur le bouton Ok du popup 
+2016-08-05 13:02:20 WARN  Automation:47 - ERROR
+2016-08-05 13:02:20 INFO  Automation:48 - Test 0.6 KO 
+2016-08-05 13:02:20 INFO  Automation:13 - ****Test 0.7****
+2016-08-05 13:02:20 WARN  Automation:53 - ERROR
+2016-08-05 13:02:20 INFO  Automation:54 - Test 0.7 KO 
+2016-08-05 13:02:20 INFO  Automation:13 - ****Test 0.8****
+2016-08-05 13:02:20 WARN  Automation:107 - ERROR
+2016-08-05 13:02:20 INFO  Automation:108 - Test 0.8 KO 
+2016-08-05 13:02:20 INFO  Automation:14 - ****Test 0.9****
+2016-08-05 13:02:20 WARN  Automation:54 - ERROR
+2016-08-05 13:02:20 INFO  Automation:55 - Test 0.9 KO 
+2016-08-05 13:02:20 INFO  Automation:13 - ****Test 0.10****
+2016-08-05 13:02:20 WARN  Automation:59 - ERROR
+2016-08-05 13:02:20 INFO  Automation:60 - Test 0.10 KO 
+2016-08-05 13:04:42 INFO  Automation:11 - ****Test 0.0****
+2016-08-05 13:05:08 WARN  Automation:19 - Unreachable Browser : Connection problem occured
+2016-08-05 13:05:08 INFO  Automation:20 - Test 0.0 KO 
+2016-08-05 13:05:08 INFO  Automation:19 - ****Test 0.1****
+2016-08-05 13:05:08 WARN  Automation:56 - ERROR
+2016-08-05 13:05:08 INFO  Automation:57 - Test 0.1 KO 
+2016-08-05 13:05:08 INFO  Automation:19 - Test 0.2 ok 
+2016-08-05 13:05:08 WARN  Automation:56 - ERROR
+2016-08-05 13:05:08 INFO  Automation:57 - Test 0.2 KO 
+2016-08-05 13:05:08 INFO  Automation:18 - Test 0.3 ok 
+2016-08-05 13:05:08 WARN  Automation:54 - ERROR
+2016-08-05 13:05:08 INFO  Automation:55 - Test 0.3 KO 
+2016-08-05 13:05:08 INFO  Automation:21 - ****Test 0.4****
+2016-08-05 13:05:08 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-05 13:05:08 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-05 13:05:08 WARN  Automation:84 - ERROR
+java.lang.NullPointerException
+	at src.test.java.Test0_4.execute(Test0_4.java:28)
+	at src.test.java.Automation.lancer(Automation.java:61)
+	at src.test.java.Main.main(Main.java:56)
+2016-08-05 13:05:08 INFO  Automation:85 - Test 0.4 KO 
+2016-08-05 13:05:08 INFO  Automation:15 - ****Test 0.5****
+2016-08-05 13:05:08 WARN  Automation:46 - ERROR
+2016-08-05 13:05:08 INFO  Automation:47 - Test 0.5 KO 
+2016-08-05 13:05:08 INFO  Automation:12 - ****Test 0.6****
+2016-08-05 13:05:08 INFO  Automation:19 - Clique sur le bouton Ok du popup 
+2016-08-05 13:05:08 WARN  Automation:47 - ERROR
+2016-08-05 13:05:08 INFO  Automation:48 - Test 0.6 KO 
+2016-08-05 13:05:08 INFO  Automation:13 - ****Test 0.7****
+2016-08-05 13:05:08 WARN  Automation:53 - ERROR
+2016-08-05 13:05:08 INFO  Automation:54 - Test 0.7 KO 
+2016-08-05 13:05:08 INFO  Automation:13 - ****Test 0.8****
+2016-08-05 13:05:08 WARN  Automation:107 - ERROR
+2016-08-05 13:05:08 INFO  Automation:108 - Test 0.8 KO 
+2016-08-05 13:05:08 INFO  Automation:14 - ****Test 0.9****
+2016-08-05 13:05:08 WARN  Automation:54 - ERROR
+2016-08-05 13:05:08 INFO  Automation:55 - Test 0.9 KO 
+2016-08-05 13:05:08 INFO  Automation:13 - ****Test 0.10****
+2016-08-05 13:05:08 WARN  Automation:59 - ERROR
+2016-08-05 13:05:08 INFO  Automation:60 - Test 0.10 KO 
+2016-08-05 13:07:37 INFO  Automation:11 - ****Test 0.0****
+2016-08-05 13:07:38 WARN  Automation:19 - Unreachable Browser : Connection problem occured
+2016-08-05 13:07:38 INFO  Automation:20 - Test 0.0 KO 
+2016-08-05 13:07:38 INFO  Automation:19 - ****Test 0.1****
+2016-08-05 13:07:38 WARN  Automation:56 - ERROR
+2016-08-05 13:07:38 INFO  Automation:57 - Test 0.1 KO 
+2016-08-05 13:07:38 INFO  Automation:19 - Test 0.2 ok 
+2016-08-05 13:07:38 WARN  Automation:56 - ERROR
+2016-08-05 13:07:38 INFO  Automation:57 - Test 0.2 KO 
+2016-08-05 13:07:38 INFO  Automation:18 - Test 0.3 ok 
+2016-08-05 13:07:38 WARN  Automation:54 - ERROR
+2016-08-05 13:07:38 INFO  Automation:55 - Test 0.3 KO 
+2016-08-05 13:07:38 INFO  Automation:21 - ****Test 0.4****
+2016-08-05 13:07:38 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-05 13:07:38 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-05 13:07:38 WARN  Automation:84 - ERROR
+java.lang.NullPointerException
+	at src.test.java.Test0_4.execute(Test0_4.java:28)
+	at src.test.java.Automation.lancer(Automation.java:61)
+	at src.test.java.Main.main(Main.java:56)
+2016-08-05 13:07:38 INFO  Automation:85 - Test 0.4 KO 
+2016-08-05 13:07:38 INFO  Automation:15 - ****Test 0.5****
+2016-08-05 13:07:38 WARN  Automation:46 - ERROR
+2016-08-05 13:07:38 INFO  Automation:47 - Test 0.5 KO 
+2016-08-05 13:07:38 INFO  Automation:12 - ****Test 0.6****
+2016-08-05 13:07:38 INFO  Automation:19 - Clique sur le bouton Ok du popup 
+2016-08-05 13:07:38 WARN  Automation:47 - ERROR
+2016-08-05 13:07:38 INFO  Automation:48 - Test 0.6 KO 
+2016-08-05 13:07:38 INFO  Automation:13 - ****Test 0.7****
+2016-08-05 13:07:38 WARN  Automation:53 - ERROR
+2016-08-05 13:07:38 INFO  Automation:54 - Test 0.7 KO 
+2016-08-05 13:07:38 INFO  Automation:13 - ****Test 0.8****
+2016-08-05 13:07:38 WARN  Automation:107 - ERROR
+2016-08-05 13:07:38 INFO  Automation:108 - Test 0.8 KO 
+2016-08-05 13:07:38 INFO  Automation:14 - ****Test 0.9****
+2016-08-05 13:07:38 WARN  Automation:54 - ERROR
+2016-08-05 13:07:38 INFO  Automation:55 - Test 0.9 KO 
+2016-08-05 13:07:38 INFO  Automation:13 - ****Test 0.10****
+2016-08-05 13:07:38 WARN  Automation:59 - ERROR
+2016-08-05 13:07:38 INFO  Automation:60 - Test 0.10 KO 
+2016-08-05 13:07:50 INFO  Automation:11 - ****Test 0.0****
+2016-08-05 13:08:09 INFO  Automation:19 - ****Test 0.1****
+2016-08-05 13:08:15 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-08-05 13:08:31 INFO  Automation:29 - Ecriture du mot de passe
+2016-08-05 13:08:40 INFO  Automation:32 - Clique sur le bouton Connexion 
+2016-08-05 13:08:40 INFO  Automation:34 - Pop up non attendu  
+2016-08-05 13:08:40 INFO  Automation:35 - Test 0.1 KO 
+2016-08-05 13:08:40 INFO  Automation:19 - Test 0.2 ok 
+2016-08-05 13:09:12 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-08-05 13:09:26 INFO  Automation:29 - Ecriture du mot de passe
+2016-08-05 13:09:34 INFO  Automation:32 - Clique sur le bouton Connexion 
+2016-08-05 13:09:35 INFO  Automation:34 - Pop up non attendu  
+2016-08-05 13:09:35 INFO  Automation:35 - Test 0.2 KO 
+2016-08-05 13:09:35 INFO  Automation:18 - Test 0.3 ok 
+2016-08-05 13:09:51 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-08-05 13:10:06 INFO  Automation:27 - Ecriture du mot de passe
+2016-08-05 13:10:14 INFO  Automation:30 - Clique sur le bouton Connexion 
+2016-08-05 13:10:14 INFO  Automation:32 - Pop up non attendu  
+2016-08-05 13:10:14 INFO  Automation:33 - Test 0.3 KO 
+2016-08-05 13:10:14 INFO  Automation:21 - ****Test 0.4****
+2016-08-05 13:10:14 INFO  Automation:26 - Connecté à l'appareil 
+2016-08-05 13:10:14 INFO  Automation:27 - Page d'acceuil non connecté affiché
+2016-08-05 13:10:23 INFO  Automation:29 - Menu latéral affiché
+2016-08-05 13:10:23 INFO  Automation:32 - Bouton se souvenir de moi affiché
+2016-08-05 13:10:23 INFO  Automation:35 - Identifiant oublié affiché
+2016-08-05 13:10:23 INFO  Automation:38 - Agences affiché
+2016-08-05 13:10:23 INFO  Automation:41 - Démonstration affiché
+2016-08-05 13:10:24 INFO  Automation:44 - Assistance affiché
+2016-08-05 13:10:24 INFO  Automation:15 - ****Test 0.5****
+2016-08-05 13:10:30 INFO  Automation:20 - Ecriture du nom d'utilisateur
+2016-08-05 13:10:39 INFO  Automation:25 - Pop up non attendu 
+2016-08-05 13:10:39 INFO  Automation:26 - Test 0.5 KO 
+2016-08-05 13:10:39 INFO  Automation:12 - ****Test 0.6****
+2016-08-05 13:10:39 INFO  Automation:19 - Clique sur le bouton Ok du popup 
+2016-08-05 13:10:43 INFO  Automation:22 - Test 0.6 OK 
+2016-08-05 13:10:43 INFO  Automation:13 - ****Test 0.7****
+2016-08-05 13:10:53 INFO  Automation:20 - Ecriture du mot de passe
+2016-08-05 13:11:01 INFO  Automation:23 - Clique sur le bouton Connexion 
+2016-08-05 13:11:01 INFO  Automation:28 - Pop up non attendu 
+2016-08-05 13:11:01 INFO  Automation:29 - Test 0.7 KO 
+2016-08-05 13:11:01 INFO  Automation:13 - ****Test 0.8****
+2016-08-05 13:11:12 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-08-05 13:11:21 INFO  Automation:26 - Ecriture du mot de passe
+2016-08-05 13:11:29 INFO  Automation:29 - Clique sur le bouton Connexion 
+2016-08-05 13:11:29 INFO  Automation:31 - Pop up D'erreur attendu 
+2016-08-05 13:11:29 INFO  Automation:32 - Clique sur le bouton ok du pop up
+2016-08-05 13:11:34 INFO  Automation:37 - Saisie des IDs une deuxieme fois  
+2016-08-05 13:11:41 INFO  Automation:45 - Ecriture du nom d'utilisateur
+2016-08-05 13:11:51 INFO  Automation:49 - Ecriture du mot de passe
+2016-08-05 13:11:58 INFO  Automation:52 - Clique sur le bouton Connexion 
+2016-08-05 13:11:59 INFO  Automation:54 - Pop up D'erreur attendu 
+2016-08-05 13:11:59 INFO  Automation:55 - Clique sur le bouton ok du pop up
+2016-08-05 13:12:03 INFO  Automation:61 - Saisie des IDs une troisieme fois  
+2016-08-05 13:12:15 INFO  Automation:69 - Ecriture du nom d'utilisateur
+2016-08-05 13:12:25 INFO  Automation:73 - Ecriture du mot de passe
+2016-08-05 13:12:33 INFO  Automation:76 - Clique sur le bouton Connexion 
+2016-08-05 13:12:33 INFO  Automation:78 - Pop up D'erreur attendu 
+2016-08-05 13:12:33 INFO  Automation:79 - Clique sur le bouton ok du pop up
+2016-08-05 13:12:40 INFO  Automation:14 - ****Test 0.9****
+2016-08-05 13:12:40 INFO  Automation:19 - Ecriture du nom d'utilisateur
+2016-08-05 13:12:49 INFO  Automation:23 - Ecriture du mot de passe
+2016-08-05 13:12:58 INFO  Automation:26 - Clique sur le bouton Connexion 
+2016-08-05 13:12:58 INFO  Automation:28 - Pop up D'erreur attendu 
+2016-08-05 13:12:58 INFO  Automation:29 - Clique sur le bouton ok du pop up 
+2016-08-05 13:13:02 INFO  Automation:31 - Attendu : popup spécifiant que le compte est bloqué 
+2016-08-05 13:13:02 INFO  Automation:32 - Test 0.9 KO 
+2016-08-05 13:13:02 INFO  Automation:13 - ****Test 0.10****
+2016-08-05 13:13:10 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-08-05 13:13:19 INFO  Automation:27 - Ecriture du mot de passe
+2016-08-05 13:13:28 INFO  Automation:30 - Clique sur le bouton Connexion 
+2016-08-05 13:13:34 INFO  Automation:33 - Test 0.10 ok 
+2016-08-08 16:46:00 INFO  Automation:11 - ****Test 0.0****
+2016-08-08 16:46:02 WARN  Automation:19 - Unreachable Browser : Connection problem occured
+2016-08-08 16:46:02 INFO  Automation:20 - Test 0.0 KO 
+2016-08-08 16:46:02 INFO  Automation:19 - ****Test 0.1****
+2016-08-08 16:46:02 WARN  Automation:56 - ERROR
+2016-08-08 16:46:02 INFO  Automation:57 - Test 0.1 KO 
+2016-08-08 16:46:02 INFO  Automation:19 - Test 0.2 ok 
+2016-08-08 16:46:02 WARN  Automation:56 - ERROR
+2016-08-08 16:46:02 INFO  Automation:57 - Test 0.2 KO 
+2016-08-08 16:46:02 INFO  Automation:18 - Test 0.3 ok 
+2016-08-08 16:46:02 INFO  Automation:20 - Clique sur le bouton Ok du popup 
+2016-08-08 16:46:02 WARN  Automation:56 - ERROR
+2016-08-08 16:46:02 INFO  Automation:57 - Test 0.3 KO 
+2016-08-08 16:46:02 INFO  Automation:21 - ****Test 0.4****
+2016-08-08 16:46:02 INFO  Automation:25 - Clique sur le bouton Ok du popup 
+2016-08-08 16:46:02 WARN  Automation:85 - ERROR
+java.lang.NullPointerException
+	at src.test.java.Test0_4.execute(Test0_4.java:26)
+	at src.test.java.Automation.lancer(Automation.java:61)
+	at src.test.java.Main.main(Main.java:56)
+2016-08-08 16:46:02 INFO  Automation:86 - Test 0.4 KO 
+2016-08-08 16:46:02 INFO  Automation:15 - ****Test 0.5****
+2016-08-08 16:46:02 INFO  Automation:17 - Clique sur le bouton Ok du popup 
+2016-08-08 16:46:02 WARN  Automation:47 - ERROR
+2016-08-08 16:46:02 INFO  Automation:48 - Test 0.5 KO 
+2016-08-08 16:46:02 INFO  Automation:12 - ****Test 0.6****
+2016-08-08 16:46:02 INFO  Automation:19 - Clique sur le bouton Ok du popup 
+2016-08-08 16:46:02 WARN  Automation:47 - ERROR
+2016-08-08 16:46:02 INFO  Automation:48 - Test 0.6 KO 
+2016-08-08 16:46:02 INFO  Automation:13 - ****Test 0.7****
+2016-08-08 16:46:02 WARN  Automation:53 - ERROR
+2016-08-08 16:46:02 INFO  Automation:54 - Test 0.7 KO 
+2016-08-08 16:46:02 INFO  Automation:13 - ****Test 0.8****
+2016-08-08 16:46:02 WARN  Automation:107 - ERROR
+2016-08-08 16:46:02 INFO  Automation:108 - Test 0.8 KO 
+2016-08-08 16:46:02 INFO  Automation:14 - ****Test 0.9****
+2016-08-08 16:46:02 WARN  Automation:57 - ERROR
+2016-08-08 16:46:02 INFO  Automation:58 - Test 0.9 KO 
+2016-08-08 16:46:02 INFO  Automation:13 - ****Test 0.10****
+2016-08-08 16:46:02 WARN  Automation:59 - ERROR
+2016-08-08 16:46:02 INFO  Automation:60 - Test 0.10 KO 
+2016-08-08 17:00:13 INFO  Automation:21 - ****Test 0.4****
+2016-08-08 17:00:13 INFO  Automation:25 - Clique sur le bouton Ok du popup 
+2016-08-08 17:00:13 WARN  Automation:85 - ERROR
+java.lang.NullPointerException
+	at src.test.java.Test0_4.execute(Test0_4.java:26)
+	at src.test.java.Automation.lancer(Automation.java:61)
+	at src.test.java.Main.main(Main.java:56)
+2016-08-08 17:00:13 INFO  Automation:86 - Test 0.4 KO 
+2016-08-08 17:01:23 INFO  Automation:21 - ****Test 0.4****
+2016-08-08 17:01:23 INFO  Automation:25 - Clique sur le bouton Ok du popup 
+2016-08-08 17:01:23 WARN  Automation:85 - ERROR
+java.lang.NullPointerException
+	at src.test.java.Test0_4.execute(Test0_4.java:26)
+	at src.test.java.Automation.lancer(Automation.java:61)
+	at src.test.java.Main.main(Main.java:56)
+2016-08-08 17:01:23 INFO  Automation:86 - Test 0.4 KO 
+2016-08-08 17:02:10 INFO  Automation:21 - ****Test 0.4****
+2016-08-08 17:02:10 INFO  Automation:25 - Clique sur le bouton Ok du popup 
+2016-08-08 17:02:10 WARN  Automation:85 - ERROR
+java.lang.NullPointerException
+	at src.test.java.Test0_4.execute(Test0_4.java:26)
+	at src.test.java.Automation.lancer(Automation.java:62)
+	at src.test.java.Main.main(Main.java:56)
+2016-08-08 17:02:10 INFO  Automation:86 - Test 0.4 KO 
+2016-08-08 17:12:41 INFO  Automation:16 - ****Test 0.0****
+2016-08-08 17:12:43 WARN  Automation:25 - Unreachable Browser : Connection problem occured
+2016-08-08 17:12:43 INFO  Automation:26 - Test 0.0 KO 
+2016-08-08 17:12:43 INFO  Automation:22 - ****Test 0.1****
+2016-08-08 17:12:43 WARN  Automation:59 - ERROR
+2016-08-08 17:12:43 INFO  Automation:60 - Test 0.1 KO 
+2016-08-08 17:12:43 INFO  Automation:22 - Test 0.2 ok 
+2016-08-08 17:12:43 WARN  Automation:59 - ERROR
+2016-08-08 17:12:43 INFO  Automation:60 - Test 0.2 KO 
+2016-08-08 17:12:43 INFO  Automation:21 - Test 0.3 ok 
+2016-08-08 17:12:43 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-08 17:12:43 WARN  Automation:59 - ERROR
+2016-08-08 17:12:43 INFO  Automation:60 - Test 0.3 KO 
+2016-08-08 17:12:43 INFO  Automation:24 - ****Test 0.4****
+2016-08-08 17:12:43 INFO  Automation:28 - Clique sur le bouton Ok du popup 
+2016-08-08 17:12:43 WARN  Automation:88 - ERROR
+java.lang.NullPointerException
+	at Tests.Test0_4.execute(Test0_4.java:29)
+	at Tests.Automation.lancer(Automation.java:67)
+	at Tests.Main.main(Main.java:57)
+2016-08-08 17:12:43 INFO  Automation:89 - Test 0.4 KO 
+2016-08-08 17:12:43 INFO  Automation:18 - ****Test 0.5****
+2016-08-08 17:12:43 INFO  Automation:20 - Clique sur le bouton Ok du popup 
+2016-08-08 17:12:43 WARN  Automation:50 - ERROR
+2016-08-08 17:12:43 INFO  Automation:51 - Test 0.5 KO 
+2016-08-08 17:12:43 INFO  Automation:15 - ****Test 0.6****
+2016-08-08 17:12:43 INFO  Automation:22 - Clique sur le bouton Ok du popup 
+2016-08-08 17:12:43 WARN  Automation:50 - ERROR
+2016-08-08 17:12:43 INFO  Automation:51 - Test 0.6 KO 
+2016-08-08 17:12:43 INFO  Automation:16 - ****Test 0.7****
+2016-08-08 17:12:43 WARN  Automation:56 - ERROR
+2016-08-08 17:12:43 INFO  Automation:57 - Test 0.7 KO 
+2016-08-08 17:12:43 INFO  Automation:16 - ****Test 0.8****
+2016-08-08 17:12:43 WARN  Automation:110 - ERROR
+2016-08-08 17:12:43 INFO  Automation:111 - Test 0.8 KO 
+2016-08-08 17:12:43 INFO  Automation:17 - ****Test 0.9****
+2016-08-08 17:12:43 WARN  Automation:60 - ERROR
+2016-08-08 17:12:43 INFO  Automation:61 - Test 0.9 KO 
+2016-08-08 17:12:43 INFO  Automation:16 - ****Test 0.10****
+2016-08-08 17:12:43 WARN  Automation:62 - ERROR
+2016-08-08 17:12:43 INFO  Automation:63 - Test 0.10 KO 
+2016-08-08 17:13:13 INFO  Automation:17 - ****Test 0.0****
+2016-08-08 17:13:15 WARN  Automation:26 - Unreachable Browser : Connection problem occured
+2016-08-08 17:13:15 INFO  Automation:27 - Test 0.0 KO 
+2016-08-08 17:13:15 INFO  Automation:23 - ****Test 0.1****
+2016-08-08 17:13:15 WARN  Automation:60 - ERROR
+2016-08-08 17:13:15 INFO  Automation:61 - Test 0.1 KO 
+2016-08-08 17:13:15 INFO  Automation:23 - Test 0.2 ok 
+2016-08-08 17:13:15 WARN  Automation:60 - ERROR
+2016-08-08 17:13:15 INFO  Automation:61 - Test 0.2 KO 
+2016-08-08 17:13:15 INFO  Automation:22 - Test 0.3 ok 
+2016-08-08 17:13:15 INFO  Automation:24 - Clique sur le bouton Ok du popup 
+2016-08-08 17:13:15 WARN  Automation:60 - ERROR
+2016-08-08 17:13:15 INFO  Automation:61 - Test 0.3 KO 
+2016-08-08 17:13:15 INFO  Automation:25 - ****Test 0.4****
+2016-08-08 17:13:15 INFO  Automation:29 - Clique sur le bouton Ok du popup 
+2016-08-08 17:13:15 WARN  Automation:89 - ERROR
+java.lang.NullPointerException
+	at Tests.Test0_4.execute(Test0_4.java:30)
+	at Configuration.Automation.lancer(Automation.java:66)
+	at Main.main(Main.java:59)
+2016-08-08 17:13:15 INFO  Automation:90 - Test 0.4 KO 
+2016-08-08 17:13:15 INFO  Automation:19 - ****Test 0.5****
+2016-08-08 17:13:15 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-08 17:13:15 WARN  Automation:51 - ERROR
+2016-08-08 17:13:15 INFO  Automation:52 - Test 0.5 KO 
+2016-08-08 17:13:15 INFO  Automation:16 - ****Test 0.6****
+2016-08-08 17:13:15 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-08 17:13:15 WARN  Automation:51 - ERROR
+2016-08-08 17:13:15 INFO  Automation:52 - Test 0.6 KO 
+2016-08-08 17:13:15 INFO  Automation:17 - ****Test 0.7****
+2016-08-08 17:13:15 WARN  Automation:57 - ERROR
+2016-08-08 17:13:15 INFO  Automation:58 - Test 0.7 KO 
+2016-08-08 17:13:15 INFO  Automation:17 - ****Test 0.8****
+2016-08-08 17:13:15 WARN  Automation:111 - ERROR
+2016-08-08 17:13:15 INFO  Automation:112 - Test 0.8 KO 
+2016-08-08 17:13:15 INFO  Automation:18 - ****Test 0.9****
+2016-08-08 17:13:15 WARN  Automation:61 - ERROR
+2016-08-08 17:13:15 INFO  Automation:62 - Test 0.9 KO 
+2016-08-08 17:13:15 INFO  Automation:17 - ****Test 0.10****
+2016-08-08 17:13:15 WARN  Automation:63 - ERROR
+2016-08-08 17:13:15 INFO  Automation:64 - Test 0.10 KO 
+2016-08-08 17:45:30 INFO  Automation:17 - ****Test 0.0****
+2016-08-08 17:45:30 INFO  Automation:23 - ****Test 0.1****
+2016-08-08 17:45:30 WARN  Automation:60 - ERROR
+2016-08-08 17:45:30 INFO  Automation:61 - Test 0.1 KO 
+2016-08-08 17:45:30 INFO  Automation:23 - Test 0.2 ok 
+2016-08-08 17:45:30 WARN  Automation:60 - ERROR
+2016-08-08 17:45:30 INFO  Automation:61 - Test 0.2 KO 
+2016-08-08 17:45:30 INFO  Automation:22 - Test 0.3 ok 
+2016-08-08 17:45:30 INFO  Automation:24 - Clique sur le bouton Ok du popup 
+2016-08-08 17:45:30 WARN  Automation:60 - ERROR
+2016-08-08 17:45:30 INFO  Automation:61 - Test 0.3 KO 
+2016-08-08 17:45:30 INFO  Automation:25 - ****Test 0.4****
+2016-08-08 17:45:30 INFO  Automation:29 - Clique sur le bouton Ok du popup 
+2016-08-08 17:45:30 WARN  Automation:89 - ERROR
+java.lang.NullPointerException
+	at Tests.Test0_4.execute(Test0_4.java:30)
+	at Configuration.Automation.lancer(Automation.java:67)
+	at Main.main(Main.java:59)
+2016-08-08 17:45:30 INFO  Automation:90 - Test 0.4 KO 
+2016-08-08 17:45:30 INFO  Automation:19 - ****Test 0.5****
+2016-08-08 17:45:30 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-08 17:45:30 WARN  Automation:51 - ERROR
+2016-08-08 17:45:30 INFO  Automation:52 - Test 0.5 KO 
+2016-08-08 17:45:30 INFO  Automation:16 - ****Test 0.6****
+2016-08-08 17:45:30 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-08 17:45:30 WARN  Automation:51 - ERROR
+2016-08-08 17:45:30 INFO  Automation:52 - Test 0.6 KO 
+2016-08-08 17:45:30 INFO  Automation:17 - ****Test 0.7****
+2016-08-08 17:45:30 WARN  Automation:57 - ERROR
+2016-08-08 17:45:30 INFO  Automation:58 - Test 0.7 KO 
+2016-08-08 17:45:30 INFO  Automation:17 - ****Test 0.8****
+2016-08-08 17:45:30 WARN  Automation:111 - ERROR
+2016-08-08 17:45:30 INFO  Automation:112 - Test 0.8 KO 
+2016-08-08 17:45:30 INFO  Automation:18 - ****Test 0.9****
+2016-08-08 17:45:30 WARN  Automation:61 - ERROR
+2016-08-08 17:45:30 INFO  Automation:62 - Test 0.9 KO 
+2016-08-08 17:45:30 INFO  Automation:17 - ****Test 0.10****
+2016-08-08 17:45:30 WARN  Automation:63 - ERROR
+2016-08-08 17:45:30 INFO  Automation:64 - Test 0.10 KO 
+2016-08-09 14:47:48 WARN  Automation:93 - Unreachable Browser : Connection problem occured
+2016-08-09 14:47:48 INFO  Automation:94 - Test 0.0 KO 
+2016-08-09 14:47:48 INFO  Automation:23 - ****Test 0.1****
+2016-08-09 14:47:48 WARN  Automation:60 - ERROR
+2016-08-09 14:47:48 INFO  Automation:61 - Test 0.1 KO 
+2016-08-09 14:47:48 INFO  Automation:23 - Test 0.2 ok 
+2016-08-09 14:47:48 WARN  Automation:60 - ERROR
+2016-08-09 14:47:48 INFO  Automation:61 - Test 0.2 KO 
+2016-08-09 14:47:48 INFO  Automation:22 - Test 0.3 ok 
+2016-08-09 14:47:48 INFO  Automation:24 - Clique sur le bouton Ok du popup 
+2016-08-09 14:47:48 WARN  Automation:60 - ERROR
+2016-08-09 14:47:48 INFO  Automation:61 - Test 0.3 KO 
+2016-08-09 14:47:48 INFO  Automation:25 - ****Test 0.4****
+2016-08-09 14:47:48 INFO  Automation:29 - Clique sur le bouton Ok du popup 
+2016-08-09 14:47:48 WARN  Automation:89 - ERROR
+java.lang.NullPointerException
+	at Tests.Test0_4.execute(Test0_4.java:30)
+	at Configuration.Automation.lancer(Automation.java:73)
+	at Configuration.Automation.lancerAvecXml(Automation.java:109)
+	at Main.main(Main.java:63)
+2016-08-09 14:47:48 INFO  Automation:90 - Test 0.4 KO 
+2016-08-09 14:47:48 INFO  Automation:19 - ****Test 0.5****
+2016-08-09 14:47:48 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-09 14:47:48 WARN  Automation:51 - ERROR
+2016-08-09 14:47:48 INFO  Automation:52 - Test 0.5 KO 
+2016-08-09 14:47:48 INFO  Automation:16 - ****Test 0.6****
+2016-08-09 14:47:48 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-09 14:47:48 WARN  Automation:51 - ERROR
+2016-08-09 14:47:48 INFO  Automation:52 - Test 0.6 KO 
+2016-08-09 14:47:48 INFO  Automation:17 - ****Test 0.7****
+2016-08-09 14:47:48 WARN  Automation:57 - ERROR
+2016-08-09 14:47:48 INFO  Automation:58 - Test 0.7 KO 
+2016-08-09 14:47:48 INFO  Automation:17 - ****Test 0.8****
+2016-08-09 14:47:48 WARN  Automation:111 - ERROR
+2016-08-09 14:47:48 INFO  Automation:112 - Test 0.8 KO 
+2016-08-09 14:47:48 INFO  Automation:18 - ****Test 0.9****
+2016-08-09 14:47:48 WARN  Automation:61 - ERROR
+2016-08-09 14:47:48 INFO  Automation:62 - Test 0.9 KO 
+2016-08-09 14:47:48 INFO  Automation:17 - ****Test 0.10****
+2016-08-09 14:47:48 WARN  Automation:63 - ERROR
+2016-08-09 14:47:48 INFO  Automation:64 - Test 0.10 KO 
+2016-08-09 14:47:48 INFO  Automation:23 - ****Test 0.1****
+2016-08-09 14:47:48 WARN  Automation:60 - ERROR
+2016-08-09 14:47:48 INFO  Automation:61 - Test 0.1 KO 
+2016-08-09 14:47:48 INFO  Automation:23 - Test 0.2 ok 
+2016-08-09 14:47:48 WARN  Automation:60 - ERROR
+2016-08-09 14:47:48 INFO  Automation:61 - Test 0.2 KO 
+2016-08-09 14:47:48 INFO  Automation:22 - Test 0.3 ok 
+2016-08-09 14:47:48 INFO  Automation:24 - Clique sur le bouton Ok du popup 
+2016-08-09 14:47:48 WARN  Automation:60 - ERROR
+2016-08-09 14:47:48 INFO  Automation:61 - Test 0.3 KO 
+2016-08-09 14:47:48 INFO  Automation:25 - ****Test 0.4****
+2016-08-09 14:47:48 INFO  Automation:29 - Clique sur le bouton Ok du popup 
+2016-08-09 14:47:48 WARN  Automation:89 - ERROR
+java.lang.NullPointerException
+	at Tests.Test0_4.execute(Test0_4.java:30)
+	at Configuration.Automation.lancer(Automation.java:73)
+	at Configuration.Automation.lancerAvecXml(Automation.java:109)
+	at Main.main(Main.java:63)
+2016-08-09 14:47:48 INFO  Automation:90 - Test 0.4 KO 
+2016-08-09 14:47:48 INFO  Automation:19 - ****Test 0.5****
+2016-08-09 14:47:48 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-09 14:47:48 WARN  Automation:51 - ERROR
+2016-08-09 14:47:48 INFO  Automation:52 - Test 0.5 KO 
+2016-08-09 14:47:48 INFO  Automation:16 - ****Test 0.6****
+2016-08-09 14:47:48 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-09 14:47:48 WARN  Automation:51 - ERROR
+2016-08-09 14:47:48 INFO  Automation:52 - Test 0.6 KO 
+2016-08-09 14:47:48 INFO  Automation:17 - ****Test 0.7****
+2016-08-09 14:47:48 WARN  Automation:57 - ERROR
+2016-08-09 14:47:48 INFO  Automation:58 - Test 0.7 KO 
+2016-08-09 14:47:48 INFO  Automation:17 - ****Test 0.8****
+2016-08-09 14:47:48 WARN  Automation:111 - ERROR
+2016-08-09 14:47:48 INFO  Automation:112 - Test 0.8 KO 
+2016-08-09 14:47:48 INFO  Automation:18 - ****Test 0.9****
+2016-08-09 14:47:48 WARN  Automation:61 - ERROR
+2016-08-09 14:47:48 INFO  Automation:62 - Test 0.9 KO 
+2016-08-09 14:47:48 INFO  Automation:17 - ****Test 0.10****
+2016-08-09 14:47:48 WARN  Automation:63 - ERROR
+2016-08-09 14:47:48 INFO  Automation:64 - Test 0.10 KO 
+2016-08-09 14:50:56 WARN  Automation:98 -  Web Driver : Connection problem occured
+2016-08-09 14:50:56 INFO  Automation:99 - Test 0.0 KO 
+2016-08-09 14:50:56 INFO  Automation:23 - ****Test 0.1****
+2016-08-09 14:50:56 WARN  Automation:60 - ERROR
+2016-08-09 14:50:56 INFO  Automation:61 - Test 0.1 KO 
+2016-08-09 14:50:56 INFO  Automation:23 - Test 0.2 ok 
+2016-08-09 14:50:56 WARN  Automation:60 - ERROR
+2016-08-09 14:50:56 INFO  Automation:61 - Test 0.2 KO 
+2016-08-09 14:50:56 INFO  Automation:22 - Test 0.3 ok 
+2016-08-09 14:50:56 INFO  Automation:24 - Clique sur le bouton Ok du popup 
+2016-08-09 14:50:56 WARN  Automation:60 - ERROR
+2016-08-09 14:50:56 INFO  Automation:61 - Test 0.3 KO 
+2016-08-09 14:50:56 INFO  Automation:25 - ****Test 0.4****
+2016-08-09 14:50:56 INFO  Automation:29 - Clique sur le bouton Ok du popup 
+2016-08-09 14:50:56 WARN  Automation:89 - ERROR
+java.lang.NullPointerException
+	at Tests.Test0_4.execute(Test0_4.java:30)
+	at Configuration.Automation.lancer(Automation.java:73)
+	at Configuration.Automation.lancerAvecXml(Automation.java:109)
+	at Main.main(Main.java:63)
+2016-08-09 14:50:56 INFO  Automation:90 - Test 0.4 KO 
+2016-08-09 14:50:56 INFO  Automation:19 - ****Test 0.5****
+2016-08-09 14:50:56 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-09 14:50:56 WARN  Automation:51 - ERROR
+2016-08-09 14:50:56 INFO  Automation:52 - Test 0.5 KO 
+2016-08-09 14:50:56 INFO  Automation:16 - ****Test 0.6****
+2016-08-09 14:50:56 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-09 14:50:56 WARN  Automation:51 - ERROR
+2016-08-09 14:50:56 INFO  Automation:52 - Test 0.6 KO 
+2016-08-09 14:50:56 INFO  Automation:17 - ****Test 0.7****
+2016-08-09 14:50:56 WARN  Automation:57 - ERROR
+2016-08-09 14:50:56 INFO  Automation:58 - Test 0.7 KO 
+2016-08-09 14:50:56 INFO  Automation:17 - ****Test 0.8****
+2016-08-09 14:50:56 WARN  Automation:111 - ERROR
+2016-08-09 14:50:56 INFO  Automation:112 - Test 0.8 KO 
+2016-08-09 14:50:56 INFO  Automation:18 - ****Test 0.9****
+2016-08-09 14:50:56 WARN  Automation:61 - ERROR
+2016-08-09 14:50:56 INFO  Automation:62 - Test 0.9 KO 
+2016-08-09 14:50:56 INFO  Automation:17 - ****Test 0.10****
+2016-08-09 14:50:56 WARN  Automation:63 - ERROR
+2016-08-09 14:50:56 INFO  Automation:64 - Test 0.10 KO 
+2016-08-09 14:50:56 INFO  Automation:23 - ****Test 0.1****
+2016-08-09 14:50:56 WARN  Automation:60 - ERROR
+2016-08-09 14:50:56 INFO  Automation:61 - Test 0.1 KO 
+2016-08-09 14:50:56 INFO  Automation:23 - Test 0.2 ok 
+2016-08-09 14:50:56 WARN  Automation:60 - ERROR
+2016-08-09 14:50:56 INFO  Automation:61 - Test 0.2 KO 
+2016-08-09 14:50:56 INFO  Automation:22 - Test 0.3 ok 
+2016-08-09 14:50:56 INFO  Automation:24 - Clique sur le bouton Ok du popup 
+2016-08-09 14:50:56 WARN  Automation:60 - ERROR
+2016-08-09 14:50:56 INFO  Automation:61 - Test 0.3 KO 
+2016-08-09 14:50:56 INFO  Automation:25 - ****Test 0.4****
+2016-08-09 14:50:56 INFO  Automation:29 - Clique sur le bouton Ok du popup 
+2016-08-09 14:50:56 WARN  Automation:89 - ERROR
+java.lang.NullPointerException
+	at Tests.Test0_4.execute(Test0_4.java:30)
+	at Configuration.Automation.lancer(Automation.java:73)
+	at Configuration.Automation.lancerAvecXml(Automation.java:109)
+	at Main.main(Main.java:63)
+2016-08-09 14:50:56 INFO  Automation:90 - Test 0.4 KO 
+2016-08-09 14:50:56 INFO  Automation:19 - ****Test 0.5****
+2016-08-09 14:50:56 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-09 14:50:56 WARN  Automation:51 - ERROR
+2016-08-09 14:50:56 INFO  Automation:52 - Test 0.5 KO 
+2016-08-09 14:50:56 INFO  Automation:16 - ****Test 0.6****
+2016-08-09 14:50:56 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-09 14:50:56 WARN  Automation:51 - ERROR
+2016-08-09 14:50:56 INFO  Automation:52 - Test 0.6 KO 
+2016-08-09 14:50:56 INFO  Automation:17 - ****Test 0.7****
+2016-08-09 14:50:56 WARN  Automation:57 - ERROR
+2016-08-09 14:50:56 INFO  Automation:58 - Test 0.7 KO 
+2016-08-09 14:50:56 INFO  Automation:17 - ****Test 0.8****
+2016-08-09 14:50:56 WARN  Automation:111 - ERROR
+2016-08-09 14:50:56 INFO  Automation:112 - Test 0.8 KO 
+2016-08-09 14:50:56 INFO  Automation:18 - ****Test 0.9****
+2016-08-09 14:50:56 WARN  Automation:61 - ERROR
+2016-08-09 14:50:56 INFO  Automation:62 - Test 0.9 KO 
+2016-08-09 14:50:56 INFO  Automation:17 - ****Test 0.10****
+2016-08-09 14:50:56 WARN  Automation:63 - ERROR
+2016-08-09 14:50:56 INFO  Automation:64 - Test 0.10 KO 
+2016-08-09 14:53:12 INFO  Automation:89 - ****Test 0.0****
+2016-08-09 14:53:51 INFO  Automation:23 - ****Test 0.1****
+2016-08-09 14:53:57 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-09 14:54:12 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-09 14:54:20 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-09 14:54:21 INFO  Automation:38 - Pop up non attendu  
+2016-08-09 14:54:21 INFO  Automation:39 - Test 0.1 KO 
+2016-08-09 14:54:21 INFO  Automation:23 - Test 0.2 ok 
+2016-08-09 14:55:56 WARN  Automation:50 - Unreachable Browser : Connection problem occured
+2016-08-09 14:55:56 INFO  Automation:51 - Test 0.2 KO 
+2016-08-09 14:55:56 INFO  Automation:22 - Test 0.3 ok 
+2016-08-09 14:55:56 INFO  Automation:24 - Clique sur le bouton Ok du popup 
+2016-08-09 14:55:57 WARN  Automation:50 - Unreachable Browser : Connection problem occured
+2016-08-09 14:55:57 INFO  Automation:51 - Test 0.3 KO 
+2016-08-09 14:55:57 INFO  Automation:25 - ****Test 0.4****
+2016-08-09 14:55:57 INFO  Automation:29 - Clique sur le bouton Ok du popup 
+2016-08-09 14:55:58 WARN  Automation:79 - Unreachable Browser : Connection problem occured
+2016-08-09 14:55:58 INFO  Automation:80 - Test 0.4 KO 
+2016-08-09 14:55:58 INFO  Automation:19 - ****Test 0.5****
+2016-08-09 14:55:58 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-09 14:55:59 WARN  Automation:41 - Unreachable Browser : Connection problem occured
+2016-08-09 14:55:59 INFO  Automation:42 - Test 0.5 KO 
+2016-08-09 14:55:59 INFO  Automation:16 - ****Test 0.6****
+2016-08-09 14:55:59 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-09 14:56:00 WARN  Automation:41 - Unreachable Browser : Connection problem occured
+2016-08-09 14:56:00 INFO  Automation:42 - Test 0.6 KO 
+2016-08-09 14:56:00 INFO  Automation:17 - ****Test 0.7****
+2016-08-09 14:56:01 WARN  Automation:48 - Unreachable Browser : Connection problem occured
+2016-08-09 14:56:01 INFO  Automation:49 - Test 0.7 KO 
+2016-08-09 14:56:01 INFO  Automation:17 - ****Test 0.8****
+2016-08-09 14:56:02 WARN  Automation:102 - Unreachable Browser : Connection problem occured
+2016-08-09 14:56:02 INFO  Automation:103 - Test 0.8 KO 
+2016-08-09 14:56:02 INFO  Automation:18 - ****Test 0.9****
+2016-08-09 14:56:03 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-08-09 14:56:03 INFO  Automation:53 - Test 0.9 KO 
+2016-08-09 14:56:03 INFO  Automation:17 - ****Test 0.10****
+2016-08-09 14:56:04 WARN  Automation:50 - Unreachable Browser : Connection problem occured
+2016-08-09 14:56:04 INFO  Automation:51 - Test  0.10 KO 
+2016-08-09 14:56:22 INFO  Automation:89 - ****Test 0.0****
+2016-08-09 14:56:59 INFO  Automation:92 - Test 0.0 OK
+2016-08-09 14:56:59 INFO  Automation:25 - ****Test 0.4****
+2016-08-09 14:56:59 INFO  Automation:29 - Clique sur le bouton Ok du popup 
+2016-08-09 14:57:37 WARN  Automation:79 - Unreachable Browser : Connection problem occured
+2016-08-09 14:57:37 INFO  Automation:80 - Test 0.4 KO 
+2016-08-09 14:57:38 WARN  Automation:95 - Unreachable Browser : Connection problem occured
+2016-08-09 14:57:38 INFO  Automation:96 - Test 0.0 KO 
+2016-08-09 14:57:38 INFO  Automation:25 - ****Test 0.4****
+2016-08-09 14:57:38 INFO  Automation:29 - Clique sur le bouton Ok du popup 
+2016-08-09 14:57:39 WARN  Automation:79 - Unreachable Browser : Connection problem occured
+2016-08-09 14:57:39 INFO  Automation:80 - Test 0.4 KO 
+2016-08-09 15:04:11 INFO  Automation:89 - ****Test 0.0****
+2016-08-09 15:04:13 WARN  Automation:95 - Unreachable Browser : Connection problem occured
+2016-08-09 15:04:13 INFO  Automation:96 - Test 0.0 KO 
+2016-08-09 15:04:13 INFO  Automation:25 - ****Test 0.4****
+2016-08-09 15:04:13 INFO  Automation:29 - Clique sur le bouton Ok du popup 
+2016-08-09 15:04:13 WARN  Automation:89 - ERROR
+java.lang.NullPointerException
+	at Tests.Test0_4.execute(Test0_4.java:30)
+	at Configuration.Automation.lancer(Automation.java:73)
+	at Configuration.Automation.lancerAvecXml(Automation.java:111)
+	at Main.main(Main.java:63)
+2016-08-09 15:04:13 INFO  Automation:90 - Test 0.4 KO 
+2016-08-09 15:04:13 WARN  Automation:139 - Veuillez choisir une seul option sois USB sois Wifi
+2016-08-09 15:04:38 INFO  Automation:89 - ****Test 0.0****
+2016-08-09 15:04:39 WARN  Automation:95 - Unreachable Browser : Connection problem occured
+2016-08-09 15:04:39 INFO  Automation:96 - Test 0.0 KO 
+2016-08-09 15:04:39 INFO  Automation:25 - ****Test 0.4****
+2016-08-09 15:04:39 INFO  Automation:29 - Clique sur le bouton Ok du popup 
+2016-08-09 15:04:39 WARN  Automation:89 - ERROR
+2016-08-09 15:04:39 INFO  Automation:90 - Test 0.4 KO 
+2016-08-09 15:04:39 WARN  Automation:139 - Veuillez choisir une seul option sois USB sois Wifi
+2016-08-09 15:05:55 WARN  Automation:139 - Veuillez choisir une seul option soit USB soit Wifi
+2016-08-09 15:05:55 WARN  Automation:139 - Veuillez choisir une seul option soit USB soit Wifi
+2016-08-09 15:07:37 WARN  Automation:139 - Veuillez choisir une seul option soit USB soit Wifi pour le deviceA7
+2016-08-09 15:07:37 WARN  Automation:139 - Veuillez choisir une seul option soit USB soit Wifi pour le deviceS6
+2016-08-09 15:07:51 WARN  Automation:139 - Veuillez choisir une seul option soit USB soit Wifi pour le device A7
+2016-08-09 15:07:51 WARN  Automation:139 - Veuillez choisir une seul option soit USB soit Wifi pour le device S6
+2016-08-09 15:15:42 INFO  Automation:89 - Mode USB activé
+2016-08-09 15:16:19 INFO  Automation:92 - Connecté à l'apprareil
+2016-08-09 15:16:19 INFO  Automation:25 - ****Test 0.4****
+2016-08-09 15:16:19 INFO  Automation:31 - Page d'acceuil non connecté affiché
+2016-08-09 15:16:19 INFO  Automation:33 - Menu latéral affiché
+2016-08-09 15:16:20 INFO  Automation:36 - Bouton se souvenir de moi affiché
+2016-08-09 15:16:20 INFO  Automation:39 - Identifiant oublié affiché
+2016-08-09 15:16:20 INFO  Automation:42 - Agences affiché
+2016-08-09 15:16:20 INFO  Automation:45 - Démonstration affiché
+2016-08-09 15:16:20 INFO  Automation:48 - Assistance affiché
+2016-08-09 15:16:20 WARN  Automation:139 - Veuillez choisir une seul option :  USB ou Wifi pour le device S6
+2016-08-09 15:20:05 INFO  Automation:89 - Mode USB activé
+2016-08-09 15:20:48 WARN  Automation:95 - Unreachable Browser : Connection problem occured
+2016-08-09 15:20:48 INFO  Automation:25 - ****Test 0.4****
+2016-08-09 15:20:48 INFO  Automation:31 - Page d'acceuil non connecté affiché
+2016-08-09 15:20:48 WARN  Automation:88 - ERROR
+2016-08-09 15:20:48 INFO  Automation:89 - Test 0.4 KO 
+2016-08-09 17:40:10 WARN  Automation:148 - Veuillez choisir une seul option :  USB ou Wifi pour le device A7
+2016-08-09 17:40:47 WARN  Automation:148 - Veuillez choisir une seul option :  USB ou Wifi pour le device A7
+2016-08-09 17:40:47 WARN  Automation:148 - Veuillez choisir une seul option :  USB ou Wifi pour le device S6
+2016-08-09 17:41:13 WARN  Automation:148 - Veuillez choisir une seul option :  USB ou Wifi pour le device A7
+2016-08-09 17:43:23 WARN  Automation:148 - Veuillez choisir une seul option :  USB ou Wifi pour le device A7
+2016-08-10 11:43:43 WARN  Automation:148 - Veuillez choisir une seul option :  USB ou Wifi pour le device A7
+2016-08-10 11:44:08 INFO  Automation:94 - Mode USB activé
+2016-08-10 11:44:09 WARN  Automation:100 - Unreachable Browser : Connection problem occured
+2016-08-10 11:44:09 INFO  Automation:25 - ****Test 0.4****
+2016-08-10 11:44:09 INFO  Automation:31 - Page d'acceuil non connecté affiché
+2016-08-10 11:44:09 WARN  Automation:88 - ERROR
+2016-08-10 11:44:09 INFO  Automation:89 - Test 0.4 KO 
+2016-08-10 11:49:57 INFO  Automation:94 - Mode USB activé
+2016-08-10 11:49:58 WARN  Automation:100 - Unreachable Browser : Connection problem occured
+2016-08-10 12:54:38 INFO  Automation:94 - Mode USB activé
+2016-08-10 12:54:40 WARN  Automation:100 - Unreachable Browser : Connection problem occured
+2016-08-10 16:18:19 INFO  Automation:25 - Commencement des Tests surA7
+2016-08-10 16:18:19 INFO  Automation:26 - Mode USB activé
+2016-08-10 16:18:20 WARN  Automation:167 - Unreachable Browser : Connection problem occured
+2016-08-10 16:18:20 INFO  Automation:23 - ****Test 0.1****
+2016-08-10 16:18:20 WARN  Automation:62 - ERROR
+2016-08-10 16:18:20 INFO  Automation:63 - Test 0.1 KO 
+2016-08-10 16:18:20 INFO  Automation:23 - Test 0.2 ok 
+2016-08-10 16:18:20 WARN  Automation:62 - ERROR
+2016-08-10 16:18:20 INFO  Automation:63 - Test 0.2 KO 
+2016-08-10 16:18:20 INFO  Automation:22 - Test 0.3 ok 
+2016-08-10 16:18:20 WARN  Automation:61 - ERROR
+2016-08-10 16:18:20 INFO  Automation:62 - Test 0.3 KO 
+2016-08-10 16:18:20 INFO  Automation:25 - ****Test 0.4****
+2016-08-10 16:18:20 INFO  Automation:31 - Page d'acceuil non connecté affiché
+2016-08-10 16:18:20 WARN  Automation:88 - ERROR
+2016-08-10 16:18:20 INFO  Automation:89 - Test 0.4 KO 
+2016-08-10 16:18:20 INFO  Automation:19 - ****Test 0.5****
+2016-08-10 16:18:20 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-10 16:18:20 WARN  Automation:51 - ERROR
+2016-08-10 16:18:20 INFO  Automation:52 - Test 0.5 KO 
+2016-08-10 16:18:20 INFO  Automation:16 - ****Test 0.6****
+2016-08-10 16:18:20 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-10 16:18:20 WARN  Automation:51 - ERROR
+2016-08-10 16:18:20 INFO  Automation:52 - Test 0.6 KO 
+2016-08-10 16:18:20 INFO  Automation:17 - ****Test 0.7****
+2016-08-10 16:18:20 WARN  Automation:57 - ERROR
+2016-08-10 16:18:20 INFO  Automation:58 - Test 0.7 KO 
+2016-08-10 16:18:20 INFO  Automation:17 - ****Test 0.8****
+2016-08-10 16:18:20 WARN  Automation:111 - ERROR
+2016-08-10 16:18:20 INFO  Automation:112 - Test 0.8 KO 
+2016-08-10 16:18:20 INFO  Automation:18 - ****Test 0.9****
+2016-08-10 16:18:20 WARN  Automation:61 - ERROR
+2016-08-10 16:18:20 INFO  Automation:62 - Test 0.9 KO 
+2016-08-10 16:18:20 INFO  Automation:17 - ****Test 0.10****
+2016-08-10 16:18:20 WARN  Automation:63 - ERROR
+2016-08-10 16:18:20 INFO  Automation:64 - Test 0.10 KO 
+2016-08-10 16:19:34 INFO  Automation:25 - Commencement des Tests surA7
+2016-08-10 16:19:34 INFO  Automation:26 - Mode USB activé
+2016-08-10 16:19:36 WARN  Automation:167 - Unreachable Browser : Connection problem occured
+2016-08-10 16:19:36 INFO  Automation:23 - ****Test 0.1****
+2016-08-10 16:19:36 WARN  Automation:62 - ERROR
+2016-08-10 16:19:36 INFO  Automation:63 - Test 0.1 KO 
+2016-08-10 16:19:36 INFO  Automation:23 - Test 0.2 ok 
+2016-08-10 16:19:36 WARN  Automation:62 - ERROR
+2016-08-10 16:19:36 INFO  Automation:63 - Test 0.2 KO 
+2016-08-10 16:19:36 INFO  Automation:22 - Test 0.3 ok 
+2016-08-10 16:19:36 WARN  Automation:61 - ERROR
+2016-08-10 16:19:36 INFO  Automation:62 - Test 0.3 KO 
+2016-08-10 16:19:36 INFO  Automation:25 - ****Test 0.4****
+2016-08-10 16:19:36 INFO  Automation:31 - Page d'acceuil non connecté affiché
+2016-08-10 16:19:36 WARN  Automation:88 - ERROR
+2016-08-10 16:19:36 INFO  Automation:89 - Test 0.4 KO 
+2016-08-10 16:19:36 INFO  Automation:19 - ****Test 0.5****
+2016-08-10 16:19:36 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-10 16:19:36 WARN  Automation:51 - ERROR
+2016-08-10 16:19:36 INFO  Automation:52 - Test 0.5 KO 
+2016-08-10 16:19:36 INFO  Automation:16 - ****Test 0.6****
+2016-08-10 16:19:36 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-10 16:19:36 WARN  Automation:51 - ERROR
+2016-08-10 16:19:36 INFO  Automation:52 - Test 0.6 KO 
+2016-08-10 16:19:36 INFO  Automation:17 - ****Test 0.7****
+2016-08-10 16:19:36 WARN  Automation:57 - ERROR
+2016-08-10 16:19:36 INFO  Automation:58 - Test 0.7 KO 
+2016-08-10 16:19:36 INFO  Automation:17 - ****Test 0.8****
+2016-08-10 16:19:36 WARN  Automation:111 - ERROR
+2016-08-10 16:19:36 INFO  Automation:112 - Test 0.8 KO 
+2016-08-10 16:19:36 INFO  Automation:18 - ****Test 0.9****
+2016-08-10 16:19:36 WARN  Automation:61 - ERROR
+2016-08-10 16:19:36 INFO  Automation:62 - Test 0.9 KO 
+2016-08-10 16:19:36 INFO  Automation:17 - ****Test 0.10****
+2016-08-10 16:19:36 WARN  Automation:63 - ERROR
+2016-08-10 16:19:36 INFO  Automation:64 - Test 0.10 KO 
+2016-08-10 16:20:48 INFO  Automation:25 - Commencement des Tests surA7
+2016-08-10 16:20:48 INFO  Automation:26 - Mode USB activé
+2016-08-10 16:20:49 WARN  Automation:167 - Unreachable Browser : Connection problem occured
+2016-08-10 16:20:49 INFO  Automation:23 - ****Test 0.1****
+2016-08-10 16:20:49 WARN  Automation:62 - ERROR
+2016-08-10 16:20:49 INFO  Automation:63 - Test 0.1 KO 
+2016-08-10 16:20:49 INFO  Automation:23 - ****Test 0.2**** 
+2016-08-10 16:20:49 WARN  Automation:62 - ERROR
+2016-08-10 16:20:49 INFO  Automation:63 - Test 0.2 KO 
+2016-08-10 16:20:49 INFO  Automation:22 - ****Test 0.3**** 
+2016-08-10 16:20:49 WARN  Automation:61 - ERROR
+2016-08-10 16:20:49 INFO  Automation:62 - Test 0.3 KO 
+2016-08-10 16:20:49 INFO  Automation:25 - ****Test 0.4****
+2016-08-10 16:20:49 INFO  Automation:31 - Page d'acceuil non connecté affiché
+2016-08-10 16:20:49 WARN  Automation:88 - ERROR
+2016-08-10 16:20:49 INFO  Automation:89 - Test 0.4 KO 
+2016-08-10 16:20:49 INFO  Automation:19 - ****Test 0.5****
+2016-08-10 16:20:49 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-10 16:20:49 WARN  Automation:51 - ERROR
+2016-08-10 16:20:49 INFO  Automation:52 - Test 0.5 KO 
+2016-08-10 16:20:49 INFO  Automation:16 - ****Test 0.6****
+2016-08-10 16:20:49 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-10 16:20:49 WARN  Automation:51 - ERROR
+2016-08-10 16:20:49 INFO  Automation:52 - Test 0.6 KO 
+2016-08-10 16:20:49 INFO  Automation:17 - ****Test 0.7****
+2016-08-10 16:20:49 WARN  Automation:57 - ERROR
+2016-08-10 16:20:49 INFO  Automation:58 - Test 0.7 KO 
+2016-08-10 16:20:49 INFO  Automation:17 - ****Test 0.8****
+2016-08-10 16:20:49 WARN  Automation:111 - ERROR
+2016-08-10 16:20:49 INFO  Automation:112 - Test 0.8 KO 
+2016-08-10 16:20:49 INFO  Automation:18 - ****Test 0.9****
+2016-08-10 16:20:49 WARN  Automation:61 - ERROR
+2016-08-10 16:20:49 INFO  Automation:62 - Test 0.9 KO 
+2016-08-10 16:20:49 INFO  Automation:17 - ****Test 0.10****
+2016-08-10 16:20:49 WARN  Automation:63 - ERROR
+2016-08-10 16:20:49 INFO  Automation:64 - Test 0.10 KO 
+2016-08-10 16:23:52 INFO  Automation:28 - Commencement des Tests sur A7
+2016-08-10 16:23:52 INFO  Automation:29 - Mode USB activé
+2016-08-10 16:23:54 WARN  Automation:167 - Unreachable Browser : Connection problem occured
+2016-08-10 16:23:54 INFO  Automation:23 - ****Test 0.1****
+2016-08-10 16:23:54 WARN  Automation:62 - ERROR
+2016-08-10 16:23:54 INFO  Automation:63 - Test 0.1 KO 
+2016-08-10 16:23:54 INFO  Automation:23 - ****Test 0.2**** 
+2016-08-10 16:23:54 WARN  Automation:62 - ERROR
+2016-08-10 16:23:54 INFO  Automation:63 - Test 0.2 KO 
+2016-08-10 16:23:54 INFO  Automation:22 - ****Test 0.3**** 
+2016-08-10 16:23:54 WARN  Automation:61 - ERROR
+2016-08-10 16:23:54 INFO  Automation:62 - Test 0.3 KO 
+2016-08-10 16:23:54 INFO  Automation:25 - ****Test 0.4****
+2016-08-10 16:23:54 INFO  Automation:31 - Page d'acceuil non connecté affiché
+2016-08-10 16:23:54 WARN  Automation:88 - ERROR
+2016-08-10 16:23:54 INFO  Automation:89 - Test 0.4 KO 
+2016-08-10 16:23:54 INFO  Automation:19 - ****Test 0.5****
+2016-08-10 16:23:54 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-10 16:23:54 WARN  Automation:51 - ERROR
+2016-08-10 16:23:54 INFO  Automation:52 - Test 0.5 KO 
+2016-08-10 16:23:54 INFO  Automation:16 - ****Test 0.6****
+2016-08-10 16:23:54 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-10 16:23:54 WARN  Automation:51 - ERROR
+2016-08-10 16:23:54 INFO  Automation:52 - Test 0.6 KO 
+2016-08-10 16:23:54 INFO  Automation:17 - ****Test 0.7****
+2016-08-10 16:23:54 WARN  Automation:57 - ERROR
+2016-08-10 16:23:54 INFO  Automation:58 - Test 0.7 KO 
+2016-08-10 16:23:54 INFO  Automation:17 - ****Test 0.8****
+2016-08-10 16:23:54 WARN  Automation:111 - ERROR
+2016-08-10 16:23:54 INFO  Automation:112 - Test 0.8 KO 
+2016-08-10 16:23:54 INFO  Automation:18 - ****Test 0.9****
+2016-08-10 16:23:54 WARN  Automation:61 - ERROR
+2016-08-10 16:23:54 INFO  Automation:62 - Test 0.9 KO 
+2016-08-10 16:23:54 INFO  Automation:17 - ****Test 0.10****
+2016-08-10 16:23:54 WARN  Automation:63 - ERROR
+2016-08-10 16:23:54 INFO  Automation:64 - Test 0.10 KO 
+2016-08-10 16:25:07 INFO  Automation:25 - Commencement des Tests sur A7
+2016-08-10 16:25:07 INFO  Automation:26 - Mode USB activé
+2016-08-10 16:25:08 WARN  Automation:167 - Unreachable Browser : Connection problem occured
+2016-08-10 16:25:08 INFO  Automation:23 - ****Test 0.1****
+2016-08-10 16:25:08 WARN  Automation:62 - ERROR
+2016-08-10 16:25:08 INFO  Automation:63 - Test 0.1 KO 
+2016-08-10 16:25:08 INFO  Automation:23 - ****Test 0.2**** 
+2016-08-10 16:25:08 WARN  Automation:62 - ERROR
+2016-08-10 16:25:08 INFO  Automation:63 - Test 0.2 KO 
+2016-08-10 16:25:08 INFO  Automation:22 - ****Test 0.3**** 
+2016-08-10 16:25:08 WARN  Automation:61 - ERROR
+2016-08-10 16:25:08 INFO  Automation:62 - Test 0.3 KO 
+2016-08-10 16:25:08 INFO  Automation:25 - ****Test 0.4****
+2016-08-10 16:25:08 INFO  Automation:31 - Page d'acceuil non connecté affiché
+2016-08-10 16:25:08 WARN  Automation:88 - ERROR
+2016-08-10 16:25:08 INFO  Automation:89 - Test 0.4 KO 
+2016-08-10 16:25:08 INFO  Automation:19 - ****Test 0.5****
+2016-08-10 16:25:08 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-10 16:25:08 WARN  Automation:51 - ERROR
+2016-08-10 16:25:08 INFO  Automation:52 - Test 0.5 KO 
+2016-08-10 16:25:08 INFO  Automation:16 - ****Test 0.6****
+2016-08-10 16:25:08 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-10 16:25:08 WARN  Automation:51 - ERROR
+2016-08-10 16:25:08 INFO  Automation:52 - Test 0.6 KO 
+2016-08-10 16:25:08 INFO  Automation:17 - ****Test 0.7****
+2016-08-10 16:25:08 WARN  Automation:57 - ERROR
+2016-08-10 16:25:08 INFO  Automation:58 - Test 0.7 KO 
+2016-08-10 16:25:08 INFO  Automation:17 - ****Test 0.8****
+2016-08-10 16:25:08 WARN  Automation:111 - ERROR
+2016-08-10 16:25:08 INFO  Automation:112 - Test 0.8 KO 
+2016-08-10 16:25:08 INFO  Automation:18 - ****Test 0.9****
+2016-08-10 16:25:08 WARN  Automation:61 - ERROR
+2016-08-10 16:25:08 INFO  Automation:62 - Test 0.9 KO 
+2016-08-10 16:25:08 INFO  Automation:17 - ****Test 0.10****
+2016-08-10 16:25:08 WARN  Automation:63 - ERROR
+2016-08-10 16:25:08 INFO  Automation:64 - Test 0.10 KO 
+2016-08-10 16:26:54 INFO  Automation:28 - Commencement des Tests sur A7
+2016-08-10 16:26:54 INFO  Automation:29 - Mode USB activé
+2016-08-10 16:26:56 WARN  Automation:45 - Unreachable Browser : Connection problem occured
+2016-08-10 16:29:52 INFO  Automation:28 - Commencement des Tests sur A7
+2016-08-10 16:29:52 INFO  Automation:29 - Mode USB activé
+2016-08-10 16:29:53 WARN  Automation:45 - Unreachable Browser : Connection problem occured
+2016-08-10 16:31:25 INFO  Automation:28 - Commencement des Tests sur A7
+2016-08-10 16:31:25 INFO  Automation:29 - Mode USB activé
+2016-08-10 16:31:26 WARN  Automation:45 - Unreachable Browser : Connection problem occured
+2016-08-10 16:34:04 INFO  Automation:28 - Commencement des Tests sur A7
+2016-08-10 16:34:04 INFO  Automation:29 - Mode USB activé
+2016-08-10 16:34:44 INFO  Automation:190 - Connecté à l'apprareil
+2016-08-10 16:34:44 INFO  Automation:23 - ****Test 0.1****
+2016-08-10 16:34:50 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-10 16:35:06 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-10 16:35:14 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-10 16:35:14 INFO  Automation:38 - Pop up non attendu  
+2016-08-10 16:35:14 INFO  Automation:39 - Clique sur le bouton Ok du popup 
+2016-08-10 16:35:19 INFO  Automation:41 - Test 0.1 KO 
+2016-08-10 16:35:19 INFO  Automation:23 - ****Test 0.2**** 
+2016-08-10 16:35:31 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-10 16:35:47 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-10 16:35:56 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-10 16:35:56 INFO  Automation:38 - Pop up non attendu  
+2016-08-10 16:35:56 INFO  Automation:39 - Clique sur le bouton Ok du popup 
+2016-08-10 16:36:00 INFO  Automation:41 - Test 0.2 KO 
+2016-08-10 16:36:00 INFO  Automation:22 - ****Test 0.3**** 
+2016-08-10 16:36:13 INFO  Automation:27 - Ecriture du nom d'utilisateur
+2016-08-10 16:36:26 INFO  Automation:32 - Ecriture du mot de passe
+2016-08-10 16:36:35 INFO  Automation:35 - Clique sur le bouton Connexion 
+2016-08-10 16:36:35 INFO  Automation:37 - Pop up non attendu  
+2016-08-10 16:36:35 INFO  Automation:38 - Clique sur le bouton Ok du popup 
+2016-08-10 16:36:39 INFO  Automation:40 - Test 0.3 KO 
+2016-08-10 16:36:39 INFO  Automation:25 - ****Test 0.4****
+2016-08-10 16:36:39 INFO  Automation:31 - Page d'acceuil non connecté affiché
+2016-08-10 16:36:39 INFO  Automation:33 - Menu latéral affiché
+2016-08-10 16:36:40 INFO  Automation:36 - Bouton se souvenir de moi affiché
+2016-08-10 16:36:40 INFO  Automation:39 - Identifiant oublié affiché
+2016-08-10 16:36:40 INFO  Automation:42 - Agences affiché
+2016-08-10 16:36:40 INFO  Automation:45 - Démonstration affiché
+2016-08-10 16:36:40 INFO  Automation:48 - Assistance affiché
+2016-08-10 16:36:40 INFO  Automation:19 - ****Test 0.5****
+2016-08-10 16:36:40 INFO  Automation:21 - Clique sur le bouton Ok du popup 
+2016-08-10 16:37:30 WARN  Automation:41 - Unreachable Browser : Connection problem occured
+2016-08-10 16:37:30 INFO  Automation:42 - Test 0.5 KO 
+2016-08-10 16:37:30 INFO  Automation:16 - ****Test 0.6****
+2016-08-10 16:37:30 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-10 16:37:31 WARN  Automation:41 - Unreachable Browser : Connection problem occured
+2016-08-10 16:37:31 INFO  Automation:42 - Test 0.6 KO 
+2016-08-10 16:37:31 INFO  Automation:17 - ****Test 0.7****
+2016-08-10 16:37:32 WARN  Automation:48 - Unreachable Browser : Connection problem occured
+2016-08-10 16:37:32 INFO  Automation:49 - Test 0.7 KO 
+2016-08-10 16:37:32 INFO  Automation:17 - ****Test 0.8****
+2016-08-10 16:37:33 WARN  Automation:102 - Unreachable Browser : Connection problem occured
+2016-08-10 16:37:33 INFO  Automation:103 - Test 0.8 KO 
+2016-08-10 16:37:33 INFO  Automation:18 - ****Test 0.9****
+2016-08-10 16:37:34 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-08-10 16:37:34 INFO  Automation:53 - Test 0.9 KO 
+2016-08-10 16:37:34 INFO  Automation:17 - ****Test 0.10****
+2016-08-10 16:37:35 WARN  Automation:50 - Unreachable Browser : Connection problem occured
+2016-08-10 16:37:35 INFO  Automation:51 - Test  0.10 KO 
+2016-08-10 16:37:36 WARN  Automation:45 - Unreachable Browser : Connection problem occured
+2016-08-10 16:41:17 INFO  Automation:28 - Commencement des Tests sur A7
+2016-08-10 16:41:17 INFO  Automation:29 - Mode USB activé
+2016-08-10 16:41:18 WARN  Automation:45 - Unreachable Browser : Connection problem occured
+2016-08-10 16:41:31 INFO  Automation:28 - Commencement des Tests sur A7
+2016-08-10 16:41:31 INFO  Automation:29 - Mode USB activé
+2016-08-10 16:42:09 INFO  Automation:190 - Connecté à l'apprareil
+2016-08-10 16:42:09 INFO  Automation:23 - ****Test 0.1****
+2016-08-10 16:42:16 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-10 16:42:31 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-10 16:42:39 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-10 16:42:40 INFO  Automation:38 - Pop up non attendu  
+2016-08-10 16:42:40 INFO  Automation:39 - Clique sur le bouton Ok du popup 
+2016-08-10 16:42:44 INFO  Automation:41 - Test 0.1 KO 
+2016-08-10 16:42:44 INFO  Automation:23 - ****Test 0.2**** 
+2016-08-10 16:42:57 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-10 16:43:11 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-10 16:43:20 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-10 16:43:21 INFO  Automation:38 - Pop up non attendu  
+2016-08-10 16:43:21 INFO  Automation:39 - Clique sur le bouton Ok du popup 
+2016-08-10 16:43:24 INFO  Automation:41 - Test 0.2 KO 
+2016-08-10 16:43:24 INFO  Automation:22 - ****Test 0.3**** 
+2016-08-10 16:43:32 INFO  Automation:27 - Ecriture du nom d'utilisateur
+2016-08-10 16:43:46 INFO  Automation:32 - Ecriture du mot de passe
+2016-08-10 16:43:53 INFO  Automation:35 - Clique sur le bouton Connexion 
+2016-08-10 16:43:54 INFO  Automation:37 - Pop up non attendu  
+2016-08-10 16:43:54 INFO  Automation:38 - Clique sur le bouton Ok du popup 
+2016-08-10 16:43:57 INFO  Automation:40 - Test 0.3 KO 
+2016-08-10 16:43:57 INFO  Automation:25 - ****Test 0.4****
+2016-08-10 16:43:57 INFO  Automation:31 - Page d'acceuil non connecté affiché
+2016-08-10 16:43:58 INFO  Automation:33 - Menu latéral affiché
+2016-08-10 16:43:58 INFO  Automation:36 - Bouton se souvenir de moi affiché
+2016-08-10 16:43:58 INFO  Automation:39 - Identifiant oublié affiché
+2016-08-10 16:43:58 INFO  Automation:42 - Agences affiché
+2016-08-10 16:43:58 INFO  Automation:45 - Démonstration affiché
+2016-08-10 16:43:59 INFO  Automation:48 - Assistance affiché
+2016-08-10 16:43:59 INFO  Automation:19 - ****Test 0.5****
+2016-08-10 16:44:05 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-08-10 16:44:13 INFO  Automation:29 - Pop up non attendu 
+2016-08-10 16:44:13 INFO  Automation:30 - Test 0.5 KO 
+2016-08-10 16:44:13 INFO  Automation:16 - ****Test 0.6****
+2016-08-10 16:44:13 INFO  Automation:23 - Clique sur le bouton Ok du popup 
+2016-08-10 16:44:17 INFO  Automation:26 - Test 0.6 OK 
+2016-08-10 16:44:17 INFO  Automation:17 - ****Test 0.7****
+2016-08-10 16:44:33 INFO  Automation:24 - Ecriture du mot de passe
+2016-08-10 16:44:41 INFO  Automation:27 - Clique sur le bouton Connexion 
+2016-08-10 16:44:41 INFO  Automation:32 - Pop up non attendu 
+2016-08-10 16:44:41 INFO  Automation:33 - Test 0.7 KO 
+2016-08-10 16:44:41 INFO  Automation:17 - ****Test 0.8****
+2016-08-10 16:44:53 INFO  Automation:26 - Ecriture du nom d'utilisateur
+2016-08-10 16:45:03 INFO  Automation:30 - Ecriture du mot de passe
+2016-08-10 16:45:12 INFO  Automation:33 - Clique sur le bouton Connexion 
+2016-08-10 16:45:13 INFO  Automation:35 - Pop up D'erreur attendu 
+2016-08-10 16:45:13 INFO  Automation:36 - Clique sur le bouton ok du pop up
+2016-08-10 16:45:17 INFO  Automation:41 - Saisie des IDs une deuxieme fois  
+2016-08-10 16:45:23 INFO  Automation:49 - Ecriture du nom d'utilisateur
+2016-08-10 16:45:32 INFO  Automation:53 - Ecriture du mot de passe
+2016-08-10 16:45:40 INFO  Automation:56 - Clique sur le bouton Connexion 
+2016-08-10 16:45:41 INFO  Automation:58 - Pop up D'erreur attendu 
+2016-08-10 16:45:41 INFO  Automation:59 - Clique sur le bouton ok du pop up
+2016-08-10 16:45:45 INFO  Automation:65 - Saisie des IDs une troisieme fois  
+2016-08-10 16:45:58 INFO  Automation:73 - Ecriture du nom d'utilisateur
+2016-08-10 16:46:08 INFO  Automation:77 - Ecriture du mot de passe
+2016-08-10 16:46:15 INFO  Automation:80 - Clique sur le bouton Connexion 
+2016-08-10 16:46:16 INFO  Automation:82 - Pop up D'erreur attendu 
+2016-08-10 16:46:16 INFO  Automation:83 - Clique sur le bouton ok du pop up
+2016-08-10 16:46:20 INFO  Automation:18 - ****Test 0.9****
+2016-08-10 16:46:33 INFO  Automation:26 - Ecriture du nom d'utilisateur
+2016-08-10 16:46:42 INFO  Automation:30 - Ecriture du mot de passe
+2016-08-10 16:46:50 INFO  Automation:33 - Clique sur le bouton Connexion 
+2016-08-10 16:46:51 INFO  Automation:35 - Pop up D'erreur attendu 
+2016-08-10 16:46:51 INFO  Automation:36 - Clique sur le bouton ok du pop up 
+2016-08-10 16:46:54 INFO  Automation:38 - Attendu : popup spécifiant que le compte est bloqué 
+2016-08-10 16:46:54 INFO  Automation:39 - Test 0.9 KO 
+2016-08-10 16:46:54 INFO  Automation:17 - ****Test 0.10****
+2016-08-10 16:47:06 INFO  Automation:26 - Ecriture du nom d'utilisateur
+2016-08-10 16:47:15 INFO  Automation:31 - Ecriture du mot de passe
+2016-08-10 16:47:24 INFO  Automation:34 - Clique sur le bouton Connexion 
+2016-08-10 16:47:30 INFO  Automation:37 - Test 0.10 ok 
+2016-08-12 14:43:12 INFO  Automation:86 - Commencement des Tests sur A7
+2016-08-12 14:43:12 INFO  Automation:87 - Mode USB activé
+2016-08-12 14:43:32 INFO  Automation:206 - Connecté à l'apprareil
+2016-08-12 14:43:32 INFO  Automation:23 - ****Test 0.1****
+2016-08-12 14:43:38 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-12 14:43:53 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-12 14:44:01 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-12 14:44:02 INFO  Automation:38 - Pop up non attendu  
+2016-08-12 14:44:02 INFO  Automation:39 - Clique sur le bouton Ok du popup 
+2016-08-12 14:44:08 INFO  Automation:41 - Test 0.1 KO 
+2016-08-12 14:53:22 INFO  Automation:43 - Commencement des Tests sur A7
+2016-08-12 14:53:22 INFO  Automation:44 - Mode USB activé
+2016-08-12 14:53:40 INFO  Automation:206 - Connecté à l'apprareil
+2016-08-12 14:53:40 INFO  Automation:23 - ****Test 0.1****
+2016-08-12 14:53:46 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-12 14:54:01 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-12 14:54:10 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-12 14:54:10 INFO  Automation:38 - Pop up non attendu  
+2016-08-12 14:54:10 INFO  Automation:39 - Clique sur le bouton Ok du popup 
+2016-08-12 14:54:16 INFO  Automation:41 - Test 0.1 KO 
+2016-08-12 14:57:02 INFO  Automation:43 - Commencement des Tests sur A7
+2016-08-12 14:57:02 INFO  Automation:44 - Mode USB activé
+2016-08-12 14:57:21 INFO  Automation:206 - Connecté à l'apprareil
+2016-08-12 14:57:21 INFO  Automation:23 - ****Test 0.1****
+2016-08-12 14:57:27 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-12 14:57:44 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-12 14:57:53 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-12 14:57:53 INFO  Automation:38 - Pop up non attendu  
+2016-08-12 14:57:53 INFO  Automation:39 - Clique sur le bouton Ok du popup 
+2016-08-12 14:57:58 INFO  Automation:41 - Test 0.1 KO 
+2016-08-12 14:58:00 INFO  Automation:23 - ****Test 0.2**** 
+2016-08-12 14:58:00 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-08-12 14:58:00 INFO  Automation:58 - Test 0.2 KO 
+2016-08-12 14:58:53 INFO  Automation:43 - Commencement des Tests sur A7
+2016-08-12 14:58:53 INFO  Automation:44 - Mode USB activé
+2016-08-12 14:59:11 INFO  Automation:206 - Connecté à l'apprareil
+2016-08-12 14:59:11 INFO  Automation:23 - ****Test 0.1****
+2016-08-12 14:59:17 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-12 14:59:32 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-12 14:59:40 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-12 14:59:40 INFO  Automation:38 - Pop up non attendu  
+2016-08-12 14:59:40 INFO  Automation:39 - Clique sur le bouton Ok du popup 
+2016-08-12 14:59:46 INFO  Automation:41 - Test 0.1 KO 
+2016-08-12 14:59:46 INFO  Automation:23 - ****Test 0.2**** 
+2016-08-12 14:59:54 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-12 15:00:08 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-12 15:00:17 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-12 15:00:18 INFO  Automation:38 - Pop up non attendu  
+2016-08-12 15:00:18 INFO  Automation:39 - Clique sur le bouton Ok du popup 
+2016-08-12 15:00:22 INFO  Automation:41 - Test 0.2 KO 
+2016-08-12 15:01:11 INFO  Automation:43 - Commencement des Tests sur A7
+2016-08-12 15:01:11 INFO  Automation:44 - Mode USB activé
+2016-08-12 15:01:29 INFO  Automation:206 - Connecté à l'apprareil
+2016-08-12 15:02:39 INFO  Automation:43 - Commencement des Tests sur A7
+2016-08-12 15:02:39 INFO  Automation:44 - Mode USB activé
+2016-08-12 15:02:56 INFO  Automation:206 - Connecté à l'apprareil
+2016-08-12 15:02:56 INFO  Automation:23 - ****Test 0.1****
+2016-08-12 15:03:03 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-12 15:03:19 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-12 15:03:26 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-12 15:03:27 INFO  Automation:38 - Pop up non attendu  
+2016-08-12 15:03:27 INFO  Automation:39 - Clique sur le bouton Ok du popup 
+2016-08-12 15:03:31 INFO  Automation:41 - Test 0.1 KO 
+2016-08-12 15:03:31 INFO  Automation:23 - ****Test 0.2**** 
+2016-08-12 15:03:39 INFO  Automation:28 - Ecriture du nom d'utilisateur
+2016-08-12 15:03:54 INFO  Automation:33 - Ecriture du mot de passe
+2016-08-12 15:04:03 INFO  Automation:36 - Clique sur le bouton Connexion 
+2016-08-12 15:04:03 INFO  Automation:38 - Pop up non attendu  
+2016-08-12 15:04:03 INFO  Automation:39 - Clique sur le bouton Ok du popup 
+2016-08-12 15:04:07 INFO  Automation:41 - Test 0.2 KO 
+2016-08-12 15:22:37 INFO  Automation:45 - Commencement des Tests sur A7
+2016-08-12 15:22:37 INFO  Automation:46 - Mode USB activé
+2016-11-10 17:14:19 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-10 17:14:19 INFO  Automation:46 - Mode USB activé
+2016-11-10 17:14:21 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-11-12 00:41:40 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 00:41:40 INFO  Automation:46 - Mode USB activé
+2016-11-12 00:41:46 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 00:43:17 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 00:43:17 INFO  Automation:46 - Mode USB activé
+2016-11-12 00:43:20 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 00:45:46 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 00:45:46 INFO  Automation:46 - Mode USB activé
+2016-11-12 00:46:07 INFO  Automation:120 - Connecté à l'apprareil
+2016-11-12 00:46:07 INFO  Automation:16 - ****Test 0.11****
+2016-11-12 00:46:11 WARN  Automation:43 - Unreachable Browser : Connection problem occured
+2016-11-12 00:46:11 INFO  Automation:44 - Test 0.11 KO 
+2016-11-12 00:47:37 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 00:47:37 INFO  Automation:46 - Mode USB activé
+2016-11-12 00:47:38 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-11-12 00:47:59 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 00:47:59 INFO  Automation:46 - Mode USB activé
+2016-11-12 00:48:03 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 00:50:02 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 00:50:02 INFO  Automation:46 - Mode USB activé
+2016-11-12 00:50:06 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 01:03:41 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:03:41 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:03:52 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 01:13:29 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:13:29 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:13:32 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-11-12 01:13:42 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:13:42 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:13:47 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 01:20:54 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:20:54 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:20:57 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 01:21:14 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:21:14 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:21:17 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 01:26:48 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:26:48 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:26:52 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 01:28:59 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:28:59 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:29:00 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 01:29:28 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:29:28 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:29:51 INFO  Automation:120 - Connecté à l'apprareil
+2016-11-12 01:29:51 INFO  Automation:16 - ****Test 0.11****
+2016-11-12 01:30:05 WARN  Automation:43 - Unreachable Browser : Connection problem occured
+2016-11-12 01:30:05 INFO  Automation:44 - Test 0.11 KO 
+2016-11-12 01:33:50 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:33:50 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:33:54 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 01:44:27 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:44:27 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:44:28 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 01:45:26 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:45:26 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:45:30 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 01:48:13 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:48:13 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:48:52 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 01:51:06 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:51:06 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:51:58 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 01:51:58 INFO  Automation:46 - Mode USB activé
+2016-11-12 01:52:01 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 02:08:42 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:08:42 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:09:12 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 02:09:31 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:09:31 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:14:33 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:14:33 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:15:04 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 02:15:59 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:15:59 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:16:15 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-11-12 02:24:02 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:24:02 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:24:19 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-11-12 02:25:18 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:25:18 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:25:19 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 02:26:16 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:26:16 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:26:30 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-11-12 02:31:26 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:31:26 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:31:51 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-11-12 02:40:00 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:40:00 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:40:14 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-11-12 02:42:41 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:42:41 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:42:51 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 02:43:32 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:43:32 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:43:41 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 02:44:42 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:44:42 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:44:52 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 02:45:19 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:45:19 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:45:38 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-11-12 02:50:46 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:50:46 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:50:47 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-11-12 02:51:10 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:51:10 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:51:30 WARN  Automation:52 - Unreachable Browser : Connection problem occured
+2016-11-12 02:52:00 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 02:52:00 INFO  Automation:46 - Mode USB activé
+2016-11-12 02:52:10 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 03:00:46 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:00:46 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:00:56 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 03:01:47 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:01:47 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:01:56 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 03:02:32 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:02:32 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:03:02 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 03:04:23 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:04:23 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:04:32 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 03:04:53 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:04:53 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:05:11 INFO  Automation:126 - Connecté à l'apprareil
+2016-11-12 03:05:11 INFO  Automation:16 - ****Test 0.11****
+2016-11-12 03:05:17 INFO  Automation:21 - Ecriture du nom d'utilisateur
+2016-11-12 03:05:25 INFO  Automation:25 - Clique sur le bouton Connexion 
+2016-11-12 03:05:26 INFO  Automation:28 - ****Test 0.11    OK****
+2016-11-12 03:14:03 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:14:03 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:14:20 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:14:20 INFO  Automation:18 - ****Test 0.11****
+2016-11-12 03:14:26 INFO  Automation:23 - Ecriture du nom d'utilisateur
+2016-11-12 03:14:33 INFO  Automation:27 - Clique sur le bouton Connexion 
+2016-11-12 03:14:34 INFO  Automation:31 - ****Test 0.11    OK****
+2016-11-12 03:15:24 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:15:24 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:15:41 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:15:41 INFO  Automation:18 - ****Test 0.11****
+2016-11-12 03:15:47 INFO  Automation:23 - Ecriture du nom d'utilisateur
+2016-11-12 03:15:55 INFO  Automation:27 - Clique sur le bouton Connexion 
+2016-11-12 03:15:56 WARN  Automation:53 - ERROR
+2016-11-12 03:15:56 INFO  Automation:54 - Test 0.11 KO 
+2016-11-12 03:20:29 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:20:29 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:20:46 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:20:46 INFO  Automation:18 - ****Test 0.11****
+2016-11-12 03:20:52 INFO  Automation:23 - Ecriture du nom d'utilisateur
+2016-11-12 03:20:59 INFO  Automation:27 - Clique sur le bouton Connexion 
+2016-11-12 03:21:00 WARN  Automation:53 - ERROR
+2016-11-12 03:21:00 INFO  Automation:54 - Test 0.11 KO 
+2016-11-12 03:23:26 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:23:26 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:23:43 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:23:43 INFO  Automation:19 - ****Test 0.11****
+2016-11-12 03:23:49 INFO  Automation:25 - Ecriture du nom d'utilisateur
+2016-11-12 03:23:57 INFO  Automation:29 - Clique sur le bouton Connexion 
+2016-11-12 03:23:58 WARN  Automation:68 -  Web Driver : Connection problem occured
+2016-11-12 03:23:58 INFO  Automation:69 - Test 0.11 KO 
+2016-11-12 03:41:08 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:41:08 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:41:25 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:41:25 INFO  Automation:18 - ****Test 0.11****
+2016-11-12 03:41:31 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-11-12 03:41:38 INFO  Automation:28 - Clique sur le bouton Connexion 
+2016-11-12 03:41:43 INFO  Automation:51 - ****Test 0.11    OK****
+2016-11-12 03:42:26 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:42:26 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:42:43 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:42:43 INFO  Automation:18 - ****Test 0.11****
+2016-11-12 03:42:47 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-11-12 03:42:54 INFO  Automation:28 - Clique sur le bouton Connexion 
+2016-11-12 03:42:59 INFO  Automation:51 - ****Test 0.11    OK****
+2016-11-12 03:44:40 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:44:40 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:44:58 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:44:58 INFO  Automation:18 - ****Test 0.11****
+2016-11-12 03:45:01 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-11-12 03:45:08 INFO  Automation:28 - Clique sur le bouton Connexion 
+2016-11-12 03:45:12 INFO  Automation:51 - ****Test 0.11    OK****
+2016-11-12 03:46:46 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:46:46 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:47:04 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:47:04 INFO  Automation:18 - ****Test 0.11****
+2016-11-12 03:47:07 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-11-12 03:47:14 INFO  Automation:28 - Clique sur le bouton Connexion 
+2016-11-12 03:47:17 INFO  Automation:53 - ****Test 0.11    OK****
+2016-11-12 03:48:45 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:48:45 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:49:03 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:49:03 INFO  Automation:18 - ****Test 0.11****
+2016-11-12 03:49:06 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-11-12 03:49:13 INFO  Automation:28 - Clique sur le bouton Connexion 
+2016-11-12 03:49:16 INFO  Automation:53 - ****Test 0.11    OK****
+2016-11-12 03:49:49 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:49:49 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:50:06 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:50:06 INFO  Automation:18 - ****Test 0.11****
+2016-11-12 03:50:09 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-11-12 03:50:17 INFO  Automation:28 - Clique sur le bouton Connexion 
+2016-11-12 03:50:20 INFO  Automation:53 - ****Test 0.11    OK****
+2016-11-12 03:50:47 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:50:47 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:51:04 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:51:04 INFO  Automation:18 - ****Test 0.11****
+2016-11-12 03:51:07 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-11-12 03:51:15 INFO  Automation:28 - Clique sur le bouton Connexion 
+2016-11-12 03:51:21 INFO  Automation:55 - ****Test 0.11    OK****
+2016-11-12 03:51:52 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:51:52 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:52:10 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:52:10 INFO  Automation:18 - ****Test 0.11****
+2016-11-12 03:52:13 INFO  Automation:24 - Ecriture du nom d'utilisateur
+2016-11-12 03:52:20 INFO  Automation:28 - Clique sur le bouton Connexion 
+2016-11-12 03:52:30 INFO  Automation:55 - ****Test 0.11    OK****
+2016-11-12 03:55:33 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 03:55:33 INFO  Automation:46 - Mode USB activé
+2016-11-12 03:55:51 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 03:55:51 INFO  Automation:16 - ****Test 0.11****
+2016-11-12 03:55:54 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-11-12 03:56:01 INFO  Automation:26 - Clique sur le bouton Connexion 
+2016-11-12 03:56:12 INFO  Automation:52 - ****Test 0.11    OK****
+2016-11-12 04:05:26 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-12 04:05:26 INFO  Automation:46 - Mode USB activé
+2016-11-12 04:05:27 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-12 04:08:28 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:08:29 INFO  Automation:111 - Mode USB activé
+2016-11-12 04:09:02 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 04:09:02 INFO  Automation:16 - ****Test 0.11****
+2016-11-12 04:09:05 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-11-12 04:09:12 INFO  Automation:26 - Clique sur le bouton Connexion 
+2016-11-12 04:09:23 INFO  Automation:52 - ****Test 0.11    OK****
+2016-11-12 04:10:20 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:10:20 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:10:39 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-12 04:10:39 INFO  Automation:16 - ****Test 0.11****
+2016-11-12 04:10:42 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-11-12 04:10:49 INFO  Automation:26 - Clique sur le bouton Connexion 
+2016-11-12 04:10:55 INFO  Automation:43 - startx = 756 ,endx = 324 , starty = 960
+2016-11-12 04:10:57 INFO  Automation:48 - startx = 324 ,endx = 756 , starty = 960
+2016-11-12 04:11:00 INFO  Automation:52 - ****Test 0.11    OK****
+2016-11-12 04:13:17 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:13:17 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:13:18 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:13:58 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:13:58 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:13:58 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:14:29 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:14:29 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:14:29 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:14:33 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:14:33 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:14:34 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:14:46 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:14:46 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:14:46 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:15:22 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:15:22 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:15:22 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:15:49 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:15:49 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:15:50 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:17:44 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:17:44 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:17:45 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:18:29 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:18:29 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:18:29 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:19:18 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:19:18 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:19:18 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:22:41 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:22:41 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:22:42 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:22:54 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:22:54 INFO  Automation:111 - Mode Wifi activé
+2016-11-12 04:22:54 WARN  Automation:122 -  Web Driver : Connection problem occured
+2016-11-12 04:23:14 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-12 04:23:14 INFO  Automation:111 - Mode Wifi activé
+2016-11-16 18:47:35 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-16 18:47:35 INFO  Automation:46 - Mode USB activé
+2016-11-16 18:47:59 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-16 18:47:59 INFO  Automation:16 - ****Test 0.11****
+2016-11-16 18:48:03 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-11-16 18:48:09 INFO  Automation:26 - Clique sur le bouton Connexion 
+2016-11-16 18:48:15 INFO  Automation:43 - startx = 756 ,endx = 324 , starty = 960
+2016-11-16 18:48:17 INFO  Automation:48 - startx = 324 ,endx = 756 , starty = 960
+2016-11-16 18:48:20 INFO  Automation:52 - ****Test 0.11    OK****
+2016-11-16 18:50:18 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-16 18:50:18 INFO  Automation:46 - Mode USB activé
+2016-11-16 18:50:18 WARN  Automation:57 -  Web Driver : Connection problem occured
+2016-11-16 18:50:42 INFO  Automation:110 - Commencement des Tests sur A7
+2016-11-16 18:50:42 INFO  Automation:111 - Mode Wifi activé
+2016-11-16 18:51:05 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-16 18:51:05 INFO  Automation:16 - ****Test 0.11****
+2016-11-16 18:51:09 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-11-16 18:51:15 INFO  Automation:26 - Clique sur le bouton Connexion 
+2016-11-16 18:51:21 INFO  Automation:43 - startx = 756 ,endx = 324 , starty = 960
+2016-11-16 18:51:24 INFO  Automation:48 - startx = 324 ,endx = 756 , starty = 960
+2016-11-16 18:51:26 INFO  Automation:52 - ****Test 0.11    OK****
+2016-11-24 14:25:53 INFO  Automation:45 - Commencement des Tests sur A7
+2016-11-24 14:25:53 INFO  Automation:46 - Mode USB activé
+2016-11-24 14:26:17 INFO  Automation:122 - Connecté à l'apprareil
+2016-11-24 14:26:17 INFO  Automation:16 - ****Test 0.11****
+2016-11-24 14:26:21 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2016-11-24 14:26:27 INFO  Automation:26 - Clique sur le bouton Connexion 
+2016-11-24 14:26:33 INFO  Automation:43 - startx = 756 ,endx = 324 , starty = 960
+2016-11-24 14:26:35 INFO  Automation:48 - startx = 324 ,endx = 756 , starty = 960
+2016-11-24 14:26:38 INFO  Automation:52 - ****Test 0.11    OK****
+2017-02-06 21:07:03 INFO  Automation:45 - Commencement des Tests sur A7
+2017-02-06 21:07:03 INFO  Automation:46 - Mode USB activé
+2017-02-06 21:07:03 WARN  Automation:57 -  Web Driver : Connection problem occured
+2017-02-06 21:07:55 INFO  Automation:45 - Commencement des Tests sur A7
+2017-02-06 21:07:55 INFO  Automation:46 - Mode USB activé
+2017-02-06 21:07:55 WARN  Automation:57 -  Web Driver : Connection problem occured
+2017-02-06 21:08:21 INFO  Automation:110 - Commencement des Tests sur A7
+2017-02-06 21:08:21 INFO  Automation:111 - Mode Wifi activé
+2017-02-06 21:08:46 INFO  Automation:122 - Connecté à l'apprareil
+2017-02-06 21:08:46 INFO  Automation:16 - ****Test 0.11****
+2017-02-06 21:08:49 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2017-02-06 21:08:56 INFO  Automation:26 - Clique sur le bouton Connexion 
+2017-02-06 21:09:02 INFO  Automation:43 - startx = 756 ,endx = 324 , starty = 960
+2017-02-06 21:09:04 INFO  Automation:48 - startx = 324 ,endx = 756 , starty = 960
+2017-02-06 21:09:06 INFO  Automation:52 - ****Test 0.11    OK****
+2017-02-07 11:44:02 INFO  Automation:110 - Commencement des Tests sur A7
+2017-02-07 11:44:02 INFO  Automation:111 - Mode Wifi activé
+2017-02-07 11:44:31 INFO  Automation:122 - Connecté à l'apprareil
+2017-02-07 11:44:31 INFO  Automation:16 - ****Test 0.11****
+2017-02-07 11:44:35 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2017-02-07 11:44:41 INFO  Automation:26 - Clique sur le bouton Connexion 
+2017-02-07 11:44:47 INFO  Automation:43 - startx = 756 ,endx = 324 , starty = 960
+2017-02-07 11:44:49 INFO  Automation:48 - startx = 324 ,endx = 756 , starty = 960
+2017-02-07 11:44:52 INFO  Automation:52 - ****Test 0.11    OK****
+2017-02-07 12:06:29 INFO  Automation:110 - Commencement des Tests sur A7
+2017-02-07 12:06:29 INFO  Automation:111 - Mode Wifi activé
+2017-02-07 12:06:58 INFO  Automation:122 - Connecté à l'apprareil
+2017-02-07 12:06:58 INFO  Automation:16 - ****Test 0.11****
+2017-02-07 12:07:01 INFO  Automation:22 - Ecriture du nom d'utilisateur
+2017-02-07 12:07:08 INFO  Automation:26 - Clique sur le bouton Connexion 
+2017-02-07 12:07:14 INFO  Automation:43 - startx = 756 ,endx = 324 , starty = 960
+2017-02-07 12:07:17 INFO  Automation:48 - startx = 324 ,endx = 756 , starty = 960
+2017-02-07 12:07:19 INFO  Automation:52 - ****Test 0.11    OK****

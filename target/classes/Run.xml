@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levels>
+	<level name="connexion" isUp="true">
+		<test>
+			<name>test numero 1</name>
+			<isUp>false</isUp>
+			<level>0</level>
+			<number>11</number>
+		</test>
+	</level>
+		
+</levels>
